@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: localizationTextTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 2b03fd9bd07add843a93b5a7422300c6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20720812032
+    m_Localized: "Erreur 401. Impossible d'\xE9tablir une connexion avec le serveur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050708859060224
+    m_Localized: Courriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051070886215680
+    m_Localized: Mot de passe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051206211239936
+    m_Localized: Se connecter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051335274168320
+    m_Localized: S'inscrire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051509987901440
+    m_Localized: "R\xE9p\xE9ter le mot de passe\n\n\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064988958425088
+    m_Localized: Chargement...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384870447054848
+    m_Localized: "Biblioth\xE8que"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384956702916608
+    m_Localized: "R\xE9alisations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1385056342802432
+    m_Localized: Emplacement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1385315970220032
+    m_Localized: "Se d\xE9connecter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1386259579568128
+    m_Localized: "Constellations d\xE9couvertes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387447834279936
+    m_Localized: "S\xE9lectionner l'emplacement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1398412827066368
+    m_Localized: Rechercher une ville...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399352959336448
+    m_Localized: Confirmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399719298236416
+    m_Localized: Annuler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1755341675986944
+    m_Localized: 'Changer l''emplacement pour:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764226587590656
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769171793641472
+    m_Localized: "Recherchez et s\xE9lectionnez l'emplacement que vous souhaitez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883477193424896
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir vous d\xE9connecter ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3717597603201024
+    m_Localized: Effets sonores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3717689244549120
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3717804231393280
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3718518663970816
+    m_Localized: Voir le tutoriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9866692436852736
+    m_Localized: "Vous avez d\xE9j\xE0 d\xE9couvert cette \xE9toile. Vous pouvez
+      trouver plus de d\xE9tails \xE0 son sujet dans la biblioth\xE8que."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9876110394163200
+    m_Localized: "Progr\xE8s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9876176676749312
+    m_Localized: Apprentissage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22037848371658752
+    m_Localized: Son
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22038014046666752
+    m_Localized: Changer la langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22079048185184256
+    m_Localized: Fond du ciel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22155613493428224
+    m_Localized: "Opacit\xE9 du ciel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22185468863873024
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir changer de langue ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22187115111415808
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir changer la langue en espagnol ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22187297274232832
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir changer la langue en anglais ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22187548383019008
+    m_Localized: "L'application est d\xE9j\xE0 en fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22543697993170944
+    m_Localized: 'Emplacement actuel:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

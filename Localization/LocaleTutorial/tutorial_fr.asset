@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: tutorial_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 0b6f5d85fe5baff44808e1a398bc72f7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5789897883648
+    m_Localized: Terminer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39020078003
+    m_Localized: "Bienvenue \xE0 Look Up"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35541532499
+    m_Localized: "Ensuite, nous expliquerons les diff\xE9rentes fonctions de cette
+      application."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40341384445
+    m_Localized: Appuyez sur...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86095417243
+    m_Localized: "Pour acc\xE9der au menu des param\xE8tres, o\xF9 vous pourrez configurer
+      le son, le fond du ciel et la langue."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46499826136
+    m_Localized: "Toute constellation ou plan\xE8te pour 'd\xE9couvrir' et ajouter
+      \xE0 votre biblioth\xE8que"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56819047021
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19696508261
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21477279398
+    m_Localized: "Pour revenir au jeu d'o\xF9 que vous soyez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25756176548
+    m_Localized: "Pour revenir d'une vue en arri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43726534760
+    m_Localized: "Pour acc\xE9der au menu des param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17100320278
+    m_Localized: Pour rechercher et changer votre emplacement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55078841342
+    m_Localized: "Pour consulter vos r\xE9alisations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96874991945
+    m_Localized: "Pour acc\xE9der \xE0 la biblioth\xE8que et consulter des informations
+      sur vos corps c\xE9lestes d\xE9couverts, ainsi que pour visionner des vid\xE9os
+      recommand\xE9es sur l'astronomie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54268988336
+    m_Localized: "Vous pouvez revoir cette introduction depuis le menu des param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37717601686
+    m_Localized: Fin du tutoriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77738914851
+    m_Localized: Profitez!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12036248338432
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir passer le tutoriel ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18326576782278656
+    m_Localized: Voir le tutoriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19206399083839488
+    m_Localized: "Cette application a \xE9t\xE9 d\xE9velopp\xE9e par Carlos Checa
+      Moreno comme Projet de Fin d'\xC9tudes, sous la direction de Cristobal Romero
+      Morales."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

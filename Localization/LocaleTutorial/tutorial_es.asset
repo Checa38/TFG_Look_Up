@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: tutorial_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0b6f5d85fe5baff44808e1a398bc72f7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5789897883648
+    m_Localized: Terminar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39020078003
+    m_Localized: Bienvenido a Look Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35541532499
+    m_Localized: "A continuaci\xF3n, le explicaremos las diferentes funciones de
+      esta aplicaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40341384445
+    m_Localized: Pulsa...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86095417243
+    m_Localized: "Para acceder al men\xFA de ajustes desde el cual podr\xE1s configurar
+      el sonido, fondo del cielo e idioma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46499826136
+    m_Localized: "Cualquier constelaci\xF3n o planeta para \"descubrirlo\" y agregarlo
+      a tu biblioteca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56819047021
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19696508261
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21477279398
+    m_Localized: "Para volver al juego desde donde sea que est\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25756176548
+    m_Localized: "Para volver una vista atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43726534760
+    m_Localized: "Para acceder al men\xFA de ajustes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17100320278
+    m_Localized: "Para buscar y cambiar tu ubicaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55078841342
+    m_Localized: Para consultar tus logros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96874991945
+    m_Localized: "Para acceder a la biblioteca y consultar informaci\xF3n sobre tus
+      cuerpos descubiertos y acceder a v\xEDdeos recomendados sobre astronom\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54268988336
+    m_Localized: "Podr\xE1s volver a ver esta introducci\xF3n desde el men\xFA de
+      ajustes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37717601686
+    m_Localized: Fin del tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77738914851
+    m_Localized: "\xA1Disfruta!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12036248338432
+    m_Localized: "\xBFSeguro que quieres saltar el tutorial?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18326576782278656
+    m_Localized: Ver tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19206399083839488
+    m_Localized: "Esta aplicaci\xF3n fue desarrollada por Carlos Checa Moreno como
+      Trabajo Fin de Grado con Cristobal Romero Morales como director del mismo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: logros_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 99d84c2ef19dc9a4b9dfb0a7e47d52d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: "Entrer dans la biblioth\xE8que 5 fois"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: "Entrer dans la biblioth\xE8que 25 fois"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: "D\xE9couvrir 10 constellations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: "D\xE9couvrir 30 constellations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: "D\xE9couvrir 60 constellations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: "D\xE9couvrir toutes les constellations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: "D\xE9bloquer tous les succ\xE8s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: "D\xE9couvrir une plan\xE8te"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: "D\xE9couvrir toutes les plan\xE8tes du syst\xE8me solaire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Changer de localisation 10 fois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Curieux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Bibliophile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: "Chasseur d'\xC9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Astronome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: "Ma\xEEtre des Constellations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: "Conqu\xE9rant du Ciel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: "Ma\xEEtre des Succ\xE8s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: "Explorateur de Plan\xE8tes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: "D\xE9couvreur de Mondes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Voyageur Galactique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11173982175657984
+    m_Localized: "F\xE9licitations !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11174302226219008
+    m_Localized: "Vous avez d\xE9bloqu\xE9 le succ\xE8s :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11603379970015232
+    m_Localized: Plus d'informations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15347124758544384
+    m_Localized: Regardez le tutoriel de Look Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15347154001231872
+    m_Localized: Bienvenue!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

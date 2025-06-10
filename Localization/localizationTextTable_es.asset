@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: localizationTextTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 2b03fd9bd07add843a93b5a7422300c6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20720812032
+    m_Localized: "Error 401. No se pudo establecer una conexi\xF3n con el servidor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050708859060224
+    m_Localized: "Correo electr\xF3nico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051070886215680
+    m_Localized: "Contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051206211239936
+    m_Localized: "Iniciar sesi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051335274168320
+    m_Localized: Registrarse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051509987901440
+    m_Localized: "Repetir contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064988958425088
+    m_Localized: Cargando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384870447054848
+    m_Localized: Biblioteca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384956702916608
+    m_Localized: Logros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1385056342802432
+    m_Localized: "Ubicaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1385315970220032
+    m_Localized: "Cerrar sesi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1386259579568128
+    m_Localized: Constelaciones descubiertas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387447834279936
+    m_Localized: "Selecciona ubicaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1398412827066368
+    m_Localized: Buscar ciudad...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399352959336448
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399719298236416
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1755341675986944
+    m_Localized: "Cambiar ubicaci\xF3n a:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1764226587590656
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769171793641472
+    m_Localized: "Busca y selecciona la ubicaci\xF3n que desees"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1883477193424896
+    m_Localized: "\xBFSeguro que quieres cerrar sesi\xF3n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3717597603201024
+    m_Localized: Efectos de sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3717689244549120
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3717804231393280
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3718518663970816
+    m_Localized: 'Ver tutorial
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9866692436852736
+    m_Localized: "Ya has descubierto este astro. Puedes consultar m\xE1s detalles
+      sobre \xE9l en la biblioteca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9876110394163200
+    m_Localized: Progreso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9876176676749312
+    m_Localized: Aprendizaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22037848371658752
+    m_Localized: Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22038014046666752
+    m_Localized: Cambiar idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22079048185184256
+    m_Localized: Fondo del cielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22155613493428224
+    m_Localized: Opacidad cielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22185468863873024
+    m_Localized: "\xBFSeguro que quieres cambiar de idioma?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22187115111415808
+    m_Localized: "La aplicaci\xF3n ya se encuentra en espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22187297274232832
+    m_Localized: "\xBFSeguro que quieres cambiar el idioma a Ingl\xE9s?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22187548383019008
+    m_Localized: "\xBFSeguro que quieres cambiar el idioma a Franc\xE9s?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22543697993170944
+    m_Localized: "Ubicaci\xF3n actual:"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

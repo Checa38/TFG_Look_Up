@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: errores
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 725e96bf4f184f248981ca0669783380, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a300aadb73f40bf47b1a1f9c739a1e9a, type: 2}
+  - {fileID: 11400000, guid: 8b8647c717aff2d49a2c526ab6cb4d91, type: 2}
+  - {fileID: 11400000, guid: 4353b0c8acf86954d898f8797e4767d0, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,740 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: biblioteca_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: abbcbc30a13c06e44a8790eec5aa8292, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9503695045
+    m_Localized: "La constellation d'Androm\xE8de est connue pour abriter la galaxie
+      d'Androm\xE8de, la galaxie spirale la plus proche de la Voie lact\xE9e. D\xE9couverte
+      dans l'antiquit\xE9, Androm\xE8de est li\xE9e \xE0 la mythologie grecque, o\xF9
+      elle repr\xE9sente la princesse Androm\xE8de, fille de Cassiop\xE9e et C\xE9ph\xE9e,
+      sauv\xE9e par Pers\xE9e. Visible depuis l'h\xE9misph\xE8re nord, c'est l'une
+      des plus grandes constellations du ciel nocturne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036967758
+    m_Localized: "La constellation de la Machine Pneumatique a \xE9t\xE9 introduite
+      par l'astronome fran\xE7ais Nicolas Louis de Lacaille au XVIIIe si\xE8cle.
+      Elle repr\xE9sente une pompe \xE0 air et a \xE9t\xE9 nomm\xE9e lors de ses
+      observations dans l'h\xE9misph\xE8re sud. Bien que ce soit une constellation
+      faible, Antlia se distingue par sa repr\xE9sentation de la technologie et de
+      l'innovation dans les temps anciens."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9733758224
+    m_Localized: "La constellation de l'oiseau de paradis, Apus, a \xE9t\xE9 cr\xE9\xE9e
+      par les navigateurs n\xE9erlandais Pieter Dirkszoon Keyser et Frederick de
+      Houtman au XVIe si\xE8cle. Elle repr\xE9sente un oiseau exotique sans pieds,
+      en r\xE9f\xE9rence aux oiseaux de paradis que l'on croyait ne jamais toucher
+      le sol. Apus est une constellation de l'h\xE9misph\xE8re sud, visible principalement
+      depuis les latitudes australes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3058774381
+    m_Localized: "La constellation du Verseau, le porteur d'eau, est l'une des constellations
+      du zodiaque. Connue depuis l'antiquit\xE9, elle est associ\xE9e \xE0 Ganym\xE8de,
+      l'\xE9chanson des dieux dans la mythologie grecque. Verseau est une constellation
+      vaste et pro\xE9minente dans le ciel nocturne, reconnaissable par ses nombreuses
+      \xE9toiles et sa riche histoire mythologique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6987417007
+    m_Localized: "La constellation de l'Aigle, Aquila, est visible dans l'h\xE9misph\xE8re
+      nord pendant l'\xE9t\xE9. Elle repr\xE9sente l'aigle qui portait le dieu Zeus
+      dans la mythologie grecque. Aquila est facilement identifiable par l'\xE9toile
+      brillante Altair, qui fait partie du Triangle d'\xE9t\xE9 avec Deneb et Vega."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2183934241
+    m_Localized: "La constellation de l'Autel, Ara, est une constellation de l'h\xE9misph\xE8re
+      sud. On pense qu'elle repr\xE9sente l'autel o\xF9 les dieux grecs ont jur\xE9
+      fid\xE9lit\xE9 avant leur bataille contre les Titans. Ara est une constellation
+      ancienne et sa forme distinctive a \xE9t\xE9 associ\xE9e \xE0 diverses histoires
+      mythologiques au fil des si\xE8cles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1963578271
+    m_Localized: "La constellation du B\xE9lier, Aries, est une autre constellation
+      du zodiaque. Elle est reconnue depuis l'antiquit\xE9 et est associ\xE9e au
+      b\xE9lier d'or de la mythologie grecque qui a port\xE9 Phrixus et Hell\xE9
+      en Colchide. Aries est importante en astronomie et en astrologie, et son histoire
+      est pleine de l\xE9gendes et de symbolisme."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504686538
+    m_Localized: "La constellation du Cocher, Auriga, est visible dans l'h\xE9misph\xE8re
+      nord. Elle est associ\xE9e \xE0 \xC9richthonios d'Ath\xE8nes, qui a invent\xE9
+      le char tir\xE9 par quatre chevaux. Auriga contient l'\xE9toile brillante Capella
+      et plusieurs autres \xE9toiles int\xE9ressantes et amas d'\xE9toiles, ce qui
+      en fait une constellation fascinante \xE0 observer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874584995
+    m_Localized: "La constellation du Bouvier, Bootes, est connue pour l'\xE9toile
+      brillante Arcturus, l'une des \xE9toiles les plus brillantes du ciel nocturne.
+      Elle repr\xE9sente un fermier ou un berger gardant les ours (constellations
+      de la Grande Ourse et de la Petite Ourse). Bootes est une constellation pro\xE9minente
+      dans le ciel de printemps et d'\xE9t\xE9 de l'h\xE9misph\xE8re nord."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8717651739
+    m_Localized: "La constellation du Ciseau, Caelum, a \xE9t\xE9 introduite par
+      l'astronome fran\xE7ais Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Elle
+      repr\xE9sente un outil de gravure utilis\xE9 dans la sculpture. Caelum est
+      l'une des constellations mineures du ciel, mais son histoire refl\xE8te l'\xE8re
+      des Lumi\xE8res et l'expansion des connaissances scientifiques."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384203571
+    m_Localized: "La constellation de la Girafe, Camelopardalis, est une grande et
+      faible constellation de l'h\xE9misph\xE8re nord. Elle a \xE9t\xE9 introduite
+      par Petrus Plancius au XVIIe si\xE8cle. Son nom vient du latin 'chameau' et
+      'l\xE9opard', car la girafe \xE9tait consid\xE9r\xE9e comme un m\xE9lange de
+      ces deux animaux. Bien qu'elle ne contienne pas d'\xE9toiles tr\xE8s brillantes,
+      elle est visible toute l'ann\xE9e depuis les latitudes septentrionales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296882440
+    m_Localized: "La constellation du Crabe, Cancer, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente le crabe envoy\xE9 par H\xE9ra pour attaquer
+      H\xE9racl\xE8s dans la mythologie grecque. Bien que Cancer soit une constellation
+      relativement faible, son importance astrologique et son emplacement entre les
+      constellations des G\xE9meaux et du Lion la rendent remarquable."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8191775591
+    m_Localized: "La constellation des Chiens de Chasse, Canes Venatici, a \xE9t\xE9
+      cr\xE9\xE9e par Johannes Hevelius au XVIIe si\xE8cle. Elle repr\xE9sente les
+      chiens de chasse de Bootes. C'est une petite constellation mais int\xE9ressante,
+      avec la remarquable galaxie spirale M51, \xE9galement connue sous le nom de
+      Galaxie du Tourbillon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5184749964
+    m_Localized: "La constellation du Grand Chien, Canis Major, est connue pour l'\xE9toile
+      la plus brillante du ciel nocturne, Sirius. Elle repr\xE9sente le chien de
+      chasse d'Orion dans la mythologie grecque. Canis Major est une constellation
+      pro\xE9minente de l'h\xE9misph\xE8re sud et est visible dans les cieux d'hiver
+      de l'h\xE9misph\xE8re nord."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6334925050
+    m_Localized: "La constellation du Petit Chien, Canis Minor, contient l'\xE9toile
+      Procyon. Elle repr\xE9sente l'un des chiens de chasse d'Orion dans la mythologie
+      grecque. Bien que ce soit une petite constellation, Canis Minor est facilement
+      identifiable et est visible dans le ciel d'hiver."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4897050835
+    m_Localized: "La constellation du Capricorne, la ch\xE8vre de mer, est l'une
+      des constellations du zodiaque. Elle est associ\xE9e \xE0 la ch\xE8vre Amalth\xE9e
+      et au dieu Pan dans la mythologie grecque. Capricorne est une constellation
+      relativement faible, mais son histoire astrologique et mythologique est riche
+      et complexe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7892847611
+    m_Localized: "La constellation de la Car\xE8ne, Carina, fait partie de l'ancienne
+      constellation d'Argo Navis. Elle repr\xE9sente la quille du navire des Argonautes
+      dans la mythologie grecque. Carina contient la deuxi\xE8me \xE9toile la plus
+      brillante du ciel nocturne, Canopus, et est principalement visible depuis l'h\xE9misph\xE8re
+      sud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1543206997
+    m_Localized: "La constellation de Cassiop\xE9e est facilement reconnaissable
+      par sa forme de 'W'. Elle repr\xE9sente la reine vaniteuse d'\xC9thiopie dans
+      la mythologie grecque, m\xE8re d'Androm\xE8de. Cassiop\xE9e est une constellation
+      circumpolaire dans l'h\xE9misph\xE8re nord, visible toute l'ann\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4765171187
+    m_Localized: "La constellation du Centaure, Centaurus, est une constellation
+      pro\xE9minente de l'h\xE9misph\xE8re sud. Elle repr\xE9sente le sage centaure
+      Chiron dans la mythologie grecque. Elle contient l'\xE9toile la plus proche
+      du syst\xE8me solaire, Proxima Centauri, et est l'une des plus grandes et brillantes
+      constellations du ciel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5237469072
+    m_Localized: "La constellation de C\xE9ph\xE9e est une constellation de l'h\xE9misph\xE8re
+      nord. Elle repr\xE9sente le roi d'\xC9thiopie et mari de Cassiop\xE9e dans
+      la mythologie grecque. C\xE9ph\xE9e est une constellation circumpolaire aux
+      latitudes nord, connue pour sa forme distinctive ressemblant \xE0 une maison."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941370926
+    m_Localized: "La constellation de la Baleine, Cetus, est une grande constellation
+      \xE9quatoriale. Elle est associ\xE9e au monstre envoy\xE9 par Pos\xE9idon pour
+      d\xE9vorer Androm\xE8de dans la mythologie grecque. Cetus contient plusieurs
+      \xE9toiles et objets int\xE9ressants, y compris l'\xE9toile variable Mira."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6999716023
+    m_Localized: "La constellation du Cam\xE9l\xE9on, Chamaeleon, est une constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par les navigateurs
+      n\xE9erlandais Pieter Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle.
+      Elle repr\xE9sente un cam\xE9l\xE9on et est visible dans les cieux australs,
+      bien qu'elle ne contienne pas d'\xE9toiles tr\xE8s brillantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6269967084
+    m_Localized: "La constellation du Compas, Circinus, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Circinus est une constellation
+      faible, mais int\xE9ressante par sa proximit\xE9 avec la Voie lact\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647185086
+    m_Localized: "La constellation de la Colombe, Columba, repr\xE9sente la colombe
+      qui a port\xE9 le rameau d'olivier \xE0 No\xE9 dans la Bible. Elle a \xE9t\xE9
+      introduite par Petrus Plancius au XVIe si\xE8cle. Columba est visible depuis
+      l'h\xE9misph\xE8re sud et contient plusieurs \xE9toiles brillantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9233479557
+    m_Localized: "La constellation de la Chevelure de B\xE9r\xE9nice, Coma Berenices,
+      est une petite constellation de l'h\xE9misph\xE8re nord. Elle repr\xE9sente
+      les cheveux de la reine B\xE9r\xE9nice II d'\xC9gypte, qui a offert sa chevelure
+      aux dieux. Elle est connue pour ses amas d'\xE9toiles et ses galaxies."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7406393757
+    m_Localized: "La constellation de la Couronne Australe, Corona Australis, est
+      une constellation de l'h\xE9misph\xE8re sud. Elle repr\xE9sente une couronne
+      ou une guirlande et est visible dans les cieux australs. Corona Australis est
+      petite mais facilement reconnaissable par sa forme en arc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3683368548
+    m_Localized: "La constellation de la Couronne Bor\xE9ale, Corona Borealis, est
+      une petite constellation de l'h\xE9misph\xE8re nord. Elle repr\xE9sente la
+      couronne d'Ariane dans la mythologie grecque. Elle est visible dans le ciel
+      de printemps et d'\xE9t\xE9, se distinguant par sa forme semi-circulaire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653729973
+    m_Localized: "La constellation du Corbeau, Corvus, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle repr\xE9sente le corbeau d'Apollon dans la
+      mythologie grecque. Corvus est facilement identifiable pr\xE8s de la constellation
+      de la Vierge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447584645
+    m_Localized: "La constellation de la Coupe, Crater, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle repr\xE9sente la coupe d'Apollon dans la mythologie
+      grecque. Crater est une constellation faible, mais sa forme est distinctive."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4097979073
+    m_Localized: "La constellation de la Croix du Sud, Crux, est une constellation
+      pro\xE9minente de l'h\xE9misph\xE8re sud. C'est un symbole culturel et religieux
+      important dans de nombreuses cultures de l'h\xE9misph\xE8re sud. Crux est facilement
+      reconnaissable et est utilis\xE9e dans la navigation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407596511
+    m_Localized: "La constellation du Cygne, Cygnus, est une constellation de l'h\xE9misph\xE8re
+      nord. Elle repr\xE9sente un cygne volant le long de la Voie lact\xE9e. Elle
+      contient l'\xE9toile brillante Deneb, l'une des \xE9toiles du Triangle d'\xE9t\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 602982634
+    m_Localized: "La constellation du Dauphin, Delphinus, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle repr\xE9sente un dauphin dans la mythologie
+      grecque. Delphinus est visible dans le ciel d'\xE9t\xE9 et d'automne et est
+      connue pour sa forme distinctive."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8291191025
+    m_Localized: "La constellation du Poisson Dor\xE9, Dorado, est une constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par les navigateurs
+      n\xE9erlandais Pieter Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle.
+      Dorado est connue pour abriter le Grand Nuage de Magellan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7611001339
+    m_Localized: "La constellation du Dragon, Draco, est une grande constellation
+      de l'h\xE9misph\xE8re nord. Elle repr\xE9sente le dragon Ladon dans la mythologie
+      grecque, qui gardait les pommes d'or dans le jardin des Hesp\xE9rides. Draco
+      est circumpolaire et visible toute l'ann\xE9e depuis les latitudes nord."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30117019
+    m_Localized: "La constellation du Petit Cheval, Equuleus, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle repr\xE9sente un poulain et est l'une des
+      plus petites constellations du ciel. Equuleus est visible dans le ciel d'\xE9t\xE9
+      et d'automne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8446883668
+    m_Localized: "La constellation de la Rivi\xE8re, Eridanus, est une longue constellation
+      de l'h\xE9misph\xE8re sud. Elle repr\xE9sente le fleuve P\xF4 dans la mythologie
+      grecque. Eridanus s'\xE9tend \xE0 travers le ciel et contient l'\xE9toile brillante
+      Achernar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1765995305
+    m_Localized: "La constellation du Fourneau, Fornax, est une constellation de
+      l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Fornax est connue pour l'amas
+      de galaxies qui porte son nom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5875371466
+    m_Localized: "La constellation des G\xE9meaux, Gemini, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente les jumeaux Castor et Pollux dans la mythologie
+      grecque. Gemini est visible dans le ciel d'hiver et contient les \xE9toiles
+      brillantes Castor et Pollux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7335069910
+    m_Localized: "La constellation de la Grue, Grus, est une constellation de l'h\xE9misph\xE8re
+      sud. Elle a \xE9t\xE9 introduite par les navigateurs n\xE9erlandais Pieter
+      Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle. Grus est connue
+      pour sa forme d'oiseau en vol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7521655209
+    m_Localized: "La constellation d'Hercule est une grande constellation de l'h\xE9misph\xE8re
+      nord. Elle repr\xE9sente le h\xE9ros grec Hercule, c\xE9l\xE8bre pour ses douze
+      travaux. Hercule contient l'amas globulaire M13, l'un des plus brillants du
+      ciel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427541826
+    m_Localized: "La constellation de l'Horloge, Horologium, est une constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Horologium est une petite constellation
+      mais int\xE9ressante par ses objets stellaires."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348368821
+    m_Localized: "La constellation de l'Hydre est la plus grande constellation du
+      ciel. Elle repr\xE9sente l'Hydre de Lerne, un serpent \xE0 plusieurs t\xEAtes
+      dans la mythologie grecque. Hydra s'\xE9tend \xE0 travers le ciel et contient
+      l'\xE9toile brillante Alphard."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6588931664
+    m_Localized: "La constellation du Serpent d'Eau, Hydrus, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par les navigateurs
+      n\xE9erlandais Pieter Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle.
+      Hydrus est connue pour sa proximit\xE9 avec le Petit Nuage de Magellan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7570754483
+    m_Localized: "La constellation de l'Indien, Indus, est une constellation de l'h\xE9misph\xE8re
+      sud. Elle repr\xE9sente un Am\xE9rindien et a \xE9t\xE9 introduite par les
+      navigateurs n\xE9erlandais au XVIe si\xE8cle. Indus est une petite constellation
+      mais significative dans la cartographie stellaire de l'\xE8re des explorations."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9179844885
+    m_Localized: "La constellation du L\xE9zard, Lacerta, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle a \xE9t\xE9 introduite par l'astronome polonais
+      Johannes Hevelius au XVIIe si\xE8cle. Lacerta est connue pour son emplacement
+      entre les constellations du Cygne et d'Androm\xE8de."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5467176811
+    m_Localized: "La constellation du Lion, Leo, est l'une des constellations du
+      zodiaque. Elle repr\xE9sente le Lion de N\xE9m\xE9e dans la mythologie grecque.
+      Leo est visible dans le ciel de printemps et est reconnaissable \xE0 sa forme
+      de lion et \xE0 l'\xE9toile brillante R\xE9gulus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5418805932
+    m_Localized: "La constellation du Petit Lion, Leo Minor, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle a \xE9t\xE9 introduite par l'astronome polonais
+      Johannes Hevelius au XVIIe si\xE8cle. Leo Minor est une constellation faible
+      mais int\xE9ressante pour les observateurs d'\xE9toiles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108680158
+    m_Localized: "La constellation du Li\xE8vre, Lepus, est une constellation de
+      l'h\xE9misph\xE8re sud. Elle repr\xE9sente un li\xE8vre et est visible pr\xE8s
+      de la constellation d'Orion. Lepus est connue pour son \xE9toile brillante
+      Arneb."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276684559
+    m_Localized: "La constellation de la Balance, Libra, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente la balance de la justice et est visible dans
+      le ciel de printemps et d'\xE9t\xE9. Libra est une constellation relativement
+      faible mais significative en astrologie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9330340787
+    m_Localized: "La constellation du Loup, Lupus, est une constellation de l'h\xE9misph\xE8re
+      sud. Elle repr\xE9sente un loup et est visible pr\xE8s de la constellation
+      du Centaure. Lupus est connue pour ses \xE9toiles brillantes et son histoire
+      mythologique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178653819
+    m_Localized: "La constellation du Lynx, Lynx, est une constellation de l'h\xE9misph\xE8re
+      nord. Elle a \xE9t\xE9 introduite par l'astronome polonais Johannes Hevelius
+      au XVIIe si\xE8cle. Lynx est une constellation faible mais int\xE9ressante
+      par son emplacement entre les constellations du Cocher et de la Grande Ourse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4774797896
+    m_Localized: "La constellation de la Lyre, Lyra, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle repr\xE9sente la lyre d'Orph\xE9e dans la
+      mythologie grecque. Lyra contient l'\xE9toile brillante V\xE9ga, l'une des
+      \xE9toiles les plus brillantes du ciel et faisant partie du Triangle d'\xE9t\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636058425
+    m_Localized: "La constellation de la Table, Mensa, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Mensa est connue pour sa proximit\xE9
+      avec le Grand Nuage de Magellan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6214089088
+    m_Localized: "La constellation du Microscope, Microscopium, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Microscopium est une constellation
+      faible mais int\xE9ressante pour les astronomes amateurs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8018754709
+    m_Localized: "La constellation de la Licorne, Monoceros, est une constellation
+      de l'h\xE9misph\xE8re nord. Elle a \xE9t\xE9 introduite par l'astronome allemand
+      Jakob Bartsch au XVIIe si\xE8cle. Monoceros est connue pour ses amas d'\xE9toiles
+      et ses n\xE9buleuses, y compris la N\xE9buleuse du C\xF4ne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4772526161
+    m_Localized: "La constellation de la Mouche, Musca, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par les navigateurs
+      n\xE9erlandais Pieter Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle.
+      Musca est visible pr\xE8s de la constellation de la Croix du Sud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7376084263
+    m_Localized: "La constellation de l'\xC9querre, Norma, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Norma est connue pour ses amas
+      d'\xE9toiles et sa proximit\xE9 avec la Voie lact\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530436629
+    m_Localized: "La constellation de l'Octant, Octans, est une constellation de
+      l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Octans est remarquable car elle
+      contient le p\xF4le c\xE9leste sud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5382770043
+    m_Localized: "La constellation d'Ophiuchus, le Porteur de Serpent, est une grande
+      constellation \xE9quatoriale. Elle repr\xE9sente Ascl\xE9pios, le dieu grec
+      de la m\xE9decine. Ophiuchus est int\xE9ressante par sa position entre les
+      constellations du Serpent et de la Voie lact\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472171693
+    m_Localized: "La constellation d'Orion est l'une des constellations les plus
+      reconnaissables du ciel. Elle repr\xE9sente le chasseur Orion dans la mythologie
+      grecque. Orion est connue pour sa ceinture, form\xE9e de trois \xE9toiles align\xE9es,
+      et pour l'\xE9toile brillante B\xE9telgeuse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26391795
+    m_Localized: "La constellation du Paon, Pavo, est une constellation de l'h\xE9misph\xE8re
+      sud. Elle a \xE9t\xE9 introduite par les navigateurs n\xE9erlandais Pieter
+      Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle. Pavo est connue
+      pour son \xE9toile brillante, Peacock."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7102038698
+    m_Localized: "La constellation de P\xE9gase est une grande constellation de l'h\xE9misph\xE8re
+      nord. Elle repr\xE9sente le cheval ail\xE9 de la mythologie grecque. P\xE9gase
+      est connue pour le Grand Carr\xE9 de P\xE9gase, un ast\xE9risme form\xE9 de
+      quatre \xE9toiles brillantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5955241200
+    m_Localized: "La constellation de Pers\xE9e est une constellation de l'h\xE9misph\xE8re
+      nord. Elle repr\xE9sente le h\xE9ros grec Pers\xE9e, qui a tu\xE9 M\xE9duse.
+      Pers\xE9e est connue pour la pluie de m\xE9t\xE9ores des Pers\xE9ides et pour
+      l'\xE9toile brillante Algol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274661308
+    m_Localized: "La constellation du Ph\xE9nix est une constellation de l'h\xE9misph\xE8re
+      sud. Elle repr\xE9sente l'oiseau ph\xE9nix de la mythologie grecque, qui rena\xEEt
+      de ses cendres. Phoenix est visible dans le ciel de printemps et d'\xE9t\xE9
+      de l'h\xE9misph\xE8re sud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466117612
+    m_Localized: "La constellation du Chevalet, Pictor, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Pictor repr\xE9sente un chevalet
+      de peintre et est connue pour son \xE9toile brillante, Alpha Pictoris."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5590039785
+    m_Localized: "La constellation des Poissons, Pisces, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente deux poissons attach\xE9s par leurs queues
+      dans la mythologie grecque. Pisces est visible dans le ciel d'automne et est
+      connue pour son importance astrologique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8579107686
+    m_Localized: "La constellation du Poisson Austral, Piscis Austrinus, est une
+      constellation de l'h\xE9misph\xE8re sud. Elle repr\xE9sente un poisson et est
+      connue pour l'\xE9toile brillante Fomalhaut, l'une des \xE9toiles les plus
+      brillantes du ciel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6067821544
+    m_Localized: "La constellation de la Poupe, Puppis, fait partie de l'ancienne
+      constellation d'Argo Navis. Elle repr\xE9sente la poupe du navire des Argonautes
+      dans la mythologie grecque. Puppis est une constellation riche en amas d'\xE9toiles
+      et en n\xE9buleuses."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 785943800
+    m_Localized: "La constellation de la Boussole, Pyxis, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Pyxis repr\xE9sente une boussole
+      nautique et est visible dans le ciel d'\xE9t\xE9 de l'h\xE9misph\xE8re sud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1172917778
+    m_Localized: "La constellation du R\xE9ticule, Reticulum, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle repr\xE9sente un r\xE9ticule utilis\xE9 dans
+      les instruments de navigation et d'observation. Reticulum est visible pr\xE8s
+      de la constellation du Poisson Dor\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5507550249
+    m_Localized: "La constellation de la Fl\xE8che, Sagitta, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle repr\xE9sente une fl\xE8che et est visible
+      dans le ciel d'\xE9t\xE9. Sagitta est l'une des plus petites mais des plus
+      distinctives constellations."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3678648982
+    m_Localized: "La constellation du Sagittaire, l'Archer, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente un centaure archer. Sagittaire est connu pour
+      son emplacement dans la Voie lact\xE9e et pour contenir le centre galactique."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1767443906
+    m_Localized: "La constellation du Scorpion, Scorpius, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente le scorpion qui a tu\xE9 Orion dans la mythologie
+      grecque. Scorpius est connu pour l'\xE9toile brillante Antar\xE8s et son emplacement
+      dans la Voie lact\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8617710067
+    m_Localized: "La constellation du Sculpteur, Sculptor, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Sculptor est connue pour le
+      groupe de galaxies qui porte son nom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1961781688
+    m_Localized: "La constellation du Bouclier, Scutum, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle a \xE9t\xE9 introduite par l'astronome polonais
+      Johannes Hevelius au XVIIe si\xE8cle. Scutum est connue pour l'amas d'\xE9toiles
+      M11, \xE9galement connu sous le nom d'Amas du Canard Sauvage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160683131
+    m_Localized: "La constellation du Serpent, Serpens, est une constellation \xE9quatoriale
+      unique, car elle est divis\xE9e en deux parties par la constellation d'Ophiuchus.
+      Elle repr\xE9sente un serpent et est visible dans le ciel d'\xE9t\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646230814
+    m_Localized: "La constellation du Sextant, Sextans, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome polonais
+      Johannes Hevelius au XVIIe si\xE8cle. Sextans est connue pour sa proximit\xE9
+      avec la constellation du Lion."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8430837929
+    m_Localized: "La constellation du Taureau, Taurus, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente le taureau en lequel Zeus s'est transform\xE9
+      pour enlever Europe. Taurus est connue pour l'\xE9toile brillante Ald\xE9baran
+      et les amas d'\xE9toiles des Pl\xE9iades et des Hyades."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1754083709
+    m_Localized: "La constellation du T\xE9lescope, Telescopium, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par l'astronome fran\xE7ais
+      Nicolas Louis de Lacaille au XVIIIe si\xE8cle. Telescopium est connue pour
+      sa proximit\xE9 avec la Voie lact\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8080702217
+    m_Localized: "La constellation du Triangle, Triangulum, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle repr\xE9sente un triangle et est connue pour
+      la galaxie spirale M33, \xE9galement connue sous le nom de Galaxie du Triangle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5803016926
+    m_Localized: "La constellation du Triangle Austral, Triangulum Australe, est
+      une petite constellation de l'h\xE9misph\xE8re sud. Elle repr\xE9sente un triangle
+      et est visible dans le ciel d'hiver de l'h\xE9misph\xE8re sud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5470327255
+    m_Localized: "La constellation du Toucan, Tucana, est une constellation de l'h\xE9misph\xE8re
+      sud. Elle a \xE9t\xE9 introduite par les navigateurs n\xE9erlandais Pieter
+      Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle. Tucana est connue
+      pour abriter le Petit Nuage de Magellan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8111300390
+    m_Localized: "La constellation de la Grande Ourse, Ursa Major, est une grande
+      constellation de l'h\xE9misph\xE8re nord. Elle contient le c\xE9l\xE8bre ast\xE9risme
+      de la Grande Casserole et est visible toute l'ann\xE9e depuis les latitudes
+      septentrionales. Ursa Major est importante dans la mythologie et la navigation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4776422055
+    m_Localized: "La constellation de la Petite Ourse, Ursa Minor, est une constellation
+      de l'h\xE9misph\xE8re nord. Elle contient l'\xE9toile Polaris, l'\xC9toile
+      du Nord, qui a \xE9t\xE9 cruciale pour la navigation. Ursa Minor est visible
+      toute l'ann\xE9e aux latitudes nord."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7552495442
+    m_Localized: "La constellation des Voiles, Vela, fait partie de l'ancienne constellation
+      d'Argo Navis. Elle repr\xE9sente les voiles du navire des Argonautes dans la
+      mythologie grecque. Vela est riche en objets astronomiques, y compris des amas
+      d'\xE9toiles et des n\xE9buleuses."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7093837326
+    m_Localized: "La constellation de la Vierge, Virgo, est l'une des constellations
+      du zodiaque. Elle repr\xE9sente D\xE9m\xE9ter, la d\xE9esse de l'agriculture
+      dans la mythologie grecque. Virgo est connue pour l'\xE9toile brillante Spica
+      et l'amas de galaxies de la Vierge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9759622741
+    m_Localized: "La constellation du Poisson Volant, Volans, est une petite constellation
+      de l'h\xE9misph\xE8re sud. Elle a \xE9t\xE9 introduite par les navigateurs
+      n\xE9erlandais Pieter Dirkszoon Keyser et Frederick de Houtman au XVIe si\xE8cle.
+      Volans est connue pour sa proximit\xE9 avec la constellation du Poisson Dor\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4563662375
+    m_Localized: "La constellation du Renard, Vulpecula, est une petite constellation
+      de l'h\xE9misph\xE8re nord. Elle a \xE9t\xE9 introduite par l'astronome polonais
+      Johannes Hevelius au XVIIe si\xE8cle. Vulpecula est connue pour abriter l'objet
+      Messier 27, \xE9galement connu sous le nom de N\xE9buleuse Dumbbell."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352576246
+    m_Localized: "Mercure est la plan\xE8te la plus proche du Soleil et la plus petite
+      du syst\xE8me solaire. Son nom vient du dieu romain du commerce et des messagers.
+      Mercure a une surface rocheuse couverte de crat\xE8res, similaire \xE0 celle
+      de la Lune, et conna\xEEt des temp\xE9ratures extr\xEAmes en raison de sa proximit\xE9
+      avec le Soleil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4082681606
+    m_Localized: "V\xE9nus est la deuxi\xE8me plan\xE8te depuis le Soleil et est
+      connue comme l'\xE9toile du matin ou du soir en raison de sa luminosit\xE9.
+      C'est la plan\xE8te la plus chaude du syst\xE8me solaire en raison de son atmosph\xE8re
+      dense en dioxyde de carbone, qui cause un effet de serre extr\xEAme. V\xE9nus
+      a une surface volcanique et est similaire en taille et en composition \xE0
+      la Terre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6829351913
+    m_Localized: "Mars, la quatri\xE8me plan\xE8te depuis le Soleil, est connue comme
+      la plan\xE8te rouge en raison de son apparence rouge\xE2tre caus\xE9e par l'oxyde
+      de fer \xE0 sa surface. Mars abrite les plus grands volcans, comme Olympus
+      Mons, et canyons, comme Valles Marineris, du syst\xE8me solaire. Elle a \xE9t\xE9
+      l'objet de nombreuses missions spatiales \xE0 la recherche de signes de vie
+      pass\xE9e ou pr\xE9sente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160202732
+    m_Localized: "Jupiter est la cinqui\xE8me plan\xE8te depuis le Soleil et la plus
+      grande du syst\xE8me solaire. Elle poss\xE8de un syst\xE8me d'anneaux faible
+      et est connue pour sa Grande Tache Rouge, une temp\xEAte g\xE9ante qui existe
+      depuis des si\xE8cles. Jupiter a au moins 79 lunes, y compris les quatre grandes
+      lunes galil\xE9ennes : Io, Europe, Ganym\xE8de et Callisto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5264441002
+    m_Localized: "Saturne est la sixi\xE8me plan\xE8te depuis le Soleil et est c\xE9l\xE8bre
+      pour ses impressionnants anneaux, compos\xE9s de glace et de roche. C'est la
+      deuxi\xE8me plus grande plan\xE8te du syst\xE8me solaire et elle a au moins
+      83 lunes, y compris Titan, la deuxi\xE8me plus grande lune du syst\xE8me solaire.
+      Les anneaux de Saturne sont visibles m\xEAme avec de petits t\xE9lescopes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81821482
+    m_Localized: "Uranus est la septi\xE8me plan\xE8te depuis le Soleil et poss\xE8de
+      une inclinaison axiale extr\xEAme qui la fait tourner sur le c\xF4t\xE9. Elle
+      est connue pour sa couleur bleu-vert due au m\xE9thane dans son atmosph\xE8re.
+      Uranus a un syst\xE8me d'anneaux et 27 lunes connues. Elle a \xE9t\xE9 d\xE9couverte
+      par William Herschel en 1781."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098374386
+    m_Localized: "Neptune est la huiti\xE8me plan\xE8te depuis le Soleil et est connue
+      pour ses vents forts et sa couleur bleu profond. C'est la plan\xE8te la plus
+      \xE9loign\xE9e du syst\xE8me solaire et elle a 14 lunes connues. Neptune a
+      \xE9t\xE9 d\xE9couverte en 1846 et son atmosph\xE8re est principalement compos\xE9e
+      d'hydrog\xE8ne, d'h\xE9lium et de m\xE9thane."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1876561093
+    m_Localized: "Pluton est une plan\xE8te naine dans la ceinture de Kuiper. Elle
+      \xE9tait consid\xE9r\xE9e comme la neuvi\xE8me plan\xE8te du syst\xE8me solaire
+      jusqu'en 2006, lorsqu'elle a \xE9t\xE9 reclass\xE9e comme plan\xE8te naine.
+      Pluton a cinq lunes connues, Char \xE9tant la plus grande. Elle est connue
+      pour son orbite excentrique et sa surface glac\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4845495557
+    m_Localized: "Le Soleil est l'\xE9toile au centre du syst\xE8me solaire. Il fournit
+      l'\xE9nergie n\xE9cessaire \xE0 la vie sur Terre et est une naine jaune. Le
+      Soleil est principalement compos\xE9 d'hydrog\xE8ne et d'h\xE9lium et g\xE9n\xE8re
+      de l'\xE9nergie par fusion nucl\xE9aire. C'est une \xE9toile d'\xE2ge moyen
+      et elle brille depuis environ 4,6 milliards d'ann\xE9es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701267866058752
+    m_Localized: "La Terre est la troisi\xE8me plan\xE8te \xE0 partir du Soleil et
+      est connue pour \xEAtre le seul corps c\xE9leste connu \xE0 abriter la vie.
+      Avec 70% de sa surface couverte d'eau, son atmosph\xE8re est principalement
+      compos\xE9e d'azote et d'oxyg\xE8ne. La Terre poss\xE8de une seule lune, la
+      Lune, qui joue un r\xF4le crucial dans les mar\xE9es et la stabilit\xE9 de
+      l'axe de la plan\xE8te. Form\xE9e il y a environ 4,5 milliards d'ann\xE9es,
+      la Terre orbite \xE0 une distance moyenne de 150 millions de kilom\xE8tres
+      du Soleil. Son noyau de fer et de nickel g\xE9n\xE8re un champ magn\xE9tique
+      qui prot\xE8ge la plan\xE8te des radiations solaires."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

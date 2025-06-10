@@ -1,0 +1,722 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: biblioteca_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: abbcbc30a13c06e44a8790eec5aa8292, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9503695045
+    m_Localized: "La constelaci\xF3n de Andr\xF3meda es conocida por albergar la
+      galaxia de Andr\xF3meda, la galaxia espiral m\xE1s cercana a la V\xEDa L\xE1ctea.
+      Descubierta en la antig\xFCedad, Andr\xF3meda se relaciona con la mitolog\xEDa
+      griega, donde representa a la princesa Andr\xF3meda, hija de Casiopea y Cefeo,
+      rescatada por Perseo. Visible desde el hemisferio norte, es una de las constelaciones
+      m\xE1s grandes del cielo nocturno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036967758
+    m_Localized: "La constelaci\xF3n de la M\xE1quina Neum\xE1tica fue introducida
+      por el astr\xF3nomo franc\xE9s Nicolas Louis de Lacaille en el siglo XVIII.
+      Representa una bomba de aire y fue nombrada durante sus observaciones en el
+      hemisferio sur. Aunque es una constelaci\xF3n d\xE9bil, Antlia destaca por
+      su representaci\xF3n de la tecnolog\xEDa y la innovaci\xF3n en tiempos antiguos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9733758224
+    m_Localized: "La constelaci\xF3n del ave del para\xEDso, Apus, fue creada por
+      los navegantes holandeses Pieter Dirkszoon Keyser y Frederick de Houtman en
+      el siglo XVI. Representa un ave ex\xF3tica sin pies, en alusi\xF3n a las aves
+      del para\xEDso que se cre\xEDa que nunca tocaban el suelo. Apus es una constelaci\xF3n
+      del hemisferio sur, visible principalmente desde latitudes australes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3058774381
+    m_Localized: "La constelaci\xF3n de Acuario, el portador de agua, es una de las
+      constelaciones del zodiaco. Conocida desde la antig\xFCedad, se asocia con
+      Ganimedes, el copero de los dioses en la mitolog\xEDa griega. Acuario es una
+      constelaci\xF3n extensa y prominente en el cielo nocturno, reconocible por
+      sus numerosas estrellas y su historia rica en mitolog\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6987417007
+    m_Localized: "La constelaci\xF3n del \xC1guila, Aquila, es visible en el hemisferio
+      norte durante el verano. Representa al \xE1guila que llev\xF3 al dios Zeus
+      en la mitolog\xEDa griega. Aquila es f\xE1cilmente identificable por la brillante
+      estrella Altair, que forma parte del Tri\xE1ngulo de Verano junto con Deneb
+      y Vega."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2183934241
+    m_Localized: "La constelaci\xF3n del Altar, Ara, es una constelaci\xF3n del hemisferio
+      sur. Se cree que representa el altar donde los dioses griegos juraron lealtad
+      antes de su batalla contra los titanes. Ara es una constelaci\xF3n antigua
+      y su forma distintiva se ha asociado con diversas historias mitol\xF3gicas
+      a lo largo de los siglos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1963578271
+    m_Localized: "La constelaci\xF3n del Carnero, Aries, es otra constelaci\xF3n
+      del zodiaco. Ha sido reconocida desde la antig\xFCedad y se asocia con el carnero
+      dorado de la mitolog\xEDa griega que llev\xF3 a Frixo y Hele a la C\xF3lquida.
+      Aries es importante tanto en astronom\xEDa como en astrolog\xEDa y su historia
+      est\xE1 llena de leyendas y simbolismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504686538
+    m_Localized: "La constelaci\xF3n del Cochero, Auriga, es visible en el hemisferio
+      norte. Est\xE1 asociada con Erichthonius de Atenas, quien invent\xF3 el carro
+      tirado por cuatro caballos. Auriga contiene la brillante estrella Capella y
+      varias otras estrellas interesantes y c\xFAmulos estelares, lo que la hace
+      una constelaci\xF3n fascinante para observar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874584995
+    m_Localized: "La constelaci\xF3n del Boyero, Bootes, es conocida por la estrella
+      brillante Arcturus, una de las estrellas m\xE1s brillantes del cielo nocturno.
+      Representa a un labrador o pastor que guarda a los osos (constelaciones Ursa
+      Major y Ursa Minor). Bootes es una constelaci\xF3n prominente en el cielo de
+      primavera y verano del hemisferio norte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8717651739
+    m_Localized: "La constelaci\xF3n del Cincel, Caelum, fue introducida por el astr\xF3nomo
+      franc\xE9s Nicolas Louis de Lacaille en el siglo XVIII. Representa una herramienta
+      de grabado utilizada en la escultura. Caelum es una de las constelaciones menores
+      del cielo, pero su historia refleja la era de la ilustraci\xF3n y la expansi\xF3n
+      del conocimiento cient\xEDfico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384203571
+    m_Localized: "La constelaci\xF3n de la Jirafa, Camelopardalis, es una constelaci\xF3n
+      grande y d\xE9bil del hemisferio norte. Fue introducida por Petrus Plancius
+      en el siglo XVII. Su nombre proviene del lat\xEDn 'camelo' y 'leopardo', ya
+      que la jirafa se pensaba que era una mezcla de estos dos animales. Aunque no
+      contiene estrellas muy brillantes, es visible durante todo el a\xF1o desde
+      latitudes septentrionales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296882440
+    m_Localized: "La constelaci\xF3n del Cangrejo, C\xE1ncer, es una de las constelaciones
+      del zodiaco. Representa al cangrejo enviado por Hera para atacar a Heracles
+      en la mitolog\xEDa griega. Aunque C\xE1ncer es una constelaci\xF3n relativamente
+      tenue, su importancia astrol\xF3gica y su ubicaci\xF3n entre las constelaciones
+      de G\xE9minis y Leo la hacen destacada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8191775591
+    m_Localized: "La constelaci\xF3n de los Perros de Caza, Canes Venatici, fue creada
+      por Johannes Hevelius en el siglo XVII. Representa a los perros de caza de
+      Bootes. Es una constelaci\xF3n peque\xF1a pero interesante, con la notable
+      galaxia espiral M51, tambi\xE9n conocida como la Galaxia del Remolino."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5184749964
+    m_Localized: "La constelaci\xF3n del Gran Perro, Canis Major, es conocida por
+      la estrella m\xE1s brillante del cielo nocturno, Sirio. Representa al perro
+      de caza de Ori\xF3n en la mitolog\xEDa griega. Canis Major es una constelaci\xF3n
+      prominente del hemisferio sur y es visible en los cielos de invierno del hemisferio
+      norte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6334925050
+    m_Localized: "La constelaci\xF3n del Perro Menor, Canis Minor, contiene la estrella
+      Procyon. Representa a uno de los perros de caza de Ori\xF3n en la mitolog\xEDa
+      griega. Aunque es una constelaci\xF3n peque\xF1a, Canis Minor es f\xE1cilmente
+      identificable y es visible en el cielo de invierno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4897050835
+    m_Localized: "La constelaci\xF3n de Capricornio, la cabra marina, es una de las
+      constelaciones del zodiaco. Est\xE1 asociada con la cabra Amaltea y el dios
+      Pan en la mitolog\xEDa griega. Capricornio es una constelaci\xF3n relativamente
+      tenue, pero su historia astrol\xF3gica y mitol\xF3gica es rica y compleja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7892847611
+    m_Localized: "La constelaci\xF3n de la Quilla, Carina, es parte de la antigua
+      constelaci\xF3n de Argo Navis. Representa la quilla del barco de los Argonautas
+      en la mitolog\xEDa griega. Carina contiene la segunda estrella m\xE1s brillante
+      del cielo nocturno, Canopus, y es visible principalmente desde el hemisferio
+      sur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1543206997
+    m_Localized: "La constelaci\xF3n de Casiopea es f\xE1cilmente reconocible por
+      su forma de 'W'. Representa a la reina vanidosa de Etiop\xEDa en la mitolog\xEDa
+      griega, madre de Andr\xF3meda. Cassiopeia es una constelaci\xF3n circumpolar
+      en el hemisferio norte, visible durante todo el a\xF1o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4765171187
+    m_Localized: "La constelaci\xF3n del Centauro, Centaurus, es una constelaci\xF3n
+      prominente del hemisferio sur. Representa al sabio centauro Quir\xF3n en la
+      mitolog\xEDa griega. Contiene la estrella m\xE1s cercana al sistema solar,
+      Proxima Centauri, y es una de las constelaciones m\xE1s grandes y brillantes
+      del cielo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5237469072
+    m_Localized: "La constelaci\xF3n de Cefeo es una constelaci\xF3n del hemisferio
+      norte. Representa al rey de Etiop\xEDa y esposo de Casiopea en la mitolog\xEDa
+      griega. Cefeo es una constelaci\xF3n circumpolar en latitudes norte, conocida
+      por su forma distintiva que se asemeja a una casa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941370926
+    m_Localized: "La constelaci\xF3n de Cetus, la ballena o monstruo marino, es una
+      gran constelaci\xF3n ecuatorial. Est\xE1 asociada con el monstruo enviado por
+      Poseid\xF3n para devorar a Andr\xF3meda en la mitolog\xEDa griega. Cetus contiene
+      varias estrellas y objetos interesantes, incluyendo la variable Mira."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6999716023
+    m_Localized: "La constelaci\xF3n del Camale\xF3n, Chamaeleon, es una constelaci\xF3n
+      del hemisferio sur. Fue introducida por los navegantes holandeses Pieter Dirkszoon
+      Keyser y Frederick de Houtman en el siglo XVI. Representa a un camale\xF3n
+      y es visible en cielos australes, aunque no contiene estrellas muy brillantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6269967084
+    m_Localized: "La constelaci\xF3n del Comp\xE1s, Circinus, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Circinus es una constelaci\xF3n tenue,
+      pero es interesante por su cercan\xEDa a la V\xEDa L\xE1ctea."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647185086
+    m_Localized: "La constelaci\xF3n de la Paloma, Columba, representa la paloma
+      que llev\xF3 la rama de olivo a No\xE9 en la Biblia. Fue introducida por Petrus
+      Plancius en el siglo XVI. Columba es visible desde el hemisferio sur y contiene
+      varias estrellas brillantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9233479557
+    m_Localized: "La constelaci\xF3n de la Cabellera de Berenice, Coma Berenices,
+      es una peque\xF1a constelaci\xF3n del hemisferio norte. Representa el cabello
+      de la reina Berenice II de Egipto, quien ofreci\xF3 su cabellera a los dioses.
+      Es conocida por sus c\xFAmulos estelares y galaxias."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7406393757
+    m_Localized: "La constelaci\xF3n de la Corona Austral, Corona Australis, es una
+      constelaci\xF3n del hemisferio sur. Representa una corona o guirnalda y es
+      visible en cielos australes. Corona Australis es peque\xF1a pero f\xE1cilmente
+      reconocible por su forma de arco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3683368548
+    m_Localized: "La constelaci\xF3n de la Corona Boreal, Corona Borealis, es una
+      peque\xF1a constelaci\xF3n del hemisferio norte. Representa la corona de Ariadna
+      en la mitolog\xEDa griega. Es visible en el cielo de primavera y verano, destac\xE1ndose
+      por su forma semicircular."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653729973
+    m_Localized: "La constelaci\xF3n del Cuervo, Corvus, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Representa al cuervo de Apolo en la mitolog\xEDa griega.
+      Corvus es f\xE1cilmente identificable cerca de la constelaci\xF3n de Virgo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447584645
+    m_Localized: "La constelaci\xF3n de la Copa, Crater, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Representa la copa de Apolo en la mitolog\xEDa griega.
+      Crater es una constelaci\xF3n tenue, pero su forma es distintiva."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4097979073
+    m_Localized: "La constelaci\xF3n de la Cruz del Sur, Crux, es una constelaci\xF3n
+      prominente del hemisferio sur. Es un importante s\xEDmbolo cultural y religioso
+      en muchas culturas del hemisferio sur. Crux es f\xE1cilmente reconocible y
+      es utilizada en la navegaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407596511
+    m_Localized: "La constelaci\xF3n del Cisne, Cygnus, es una constelaci\xF3n del
+      hemisferio norte. Representa a un cisne volando a lo largo de la V\xEDa L\xE1ctea.
+      Contiene la brillante estrella Deneb, una de las estrellas del Tri\xE1ngulo
+      de Verano."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 602982634
+    m_Localized: "La constelaci\xF3n del Delf\xEDn, Delphinus, es una peque\xF1a
+      constelaci\xF3n del hemisferio norte. Representa a un delf\xEDn en la mitolog\xEDa
+      griega. Delphinus es visible en el cielo de verano y oto\xF1o y es conocida
+      por su forma distintiva."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8291191025
+    m_Localized: "La constelaci\xF3n del Pez Dorado, Dorado, es una constelaci\xF3n
+      del hemisferio sur. Fue introducida por los navegantes holandeses Pieter Dirkszoon
+      Keyser y Frederick de Houtman en el siglo XVI. Dorado es conocida por albergar
+      la Gran Nube de Magallanes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7611001339
+    m_Localized: "La constelaci\xF3n del Drag\xF3n, Draco, es una gran constelaci\xF3n
+      del hemisferio norte. Representa al drag\xF3n Lad\xF3n en la mitolog\xEDa griega,
+      que custodiaba las manzanas de oro en el jard\xEDn de las Hesp\xE9rides. Draco
+      es circumpolar y visible durante todo el a\xF1o desde latitudes norte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30117019
+    m_Localized: "La constelaci\xF3n del Caballito, Equuleus, es una peque\xF1a constelaci\xF3n
+      del hemisferio norte. Representa a un potro y es una de las constelaciones
+      m\xE1s peque\xF1as del cielo. Equuleus es visible en el cielo de verano y oto\xF1o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8446883668
+    m_Localized: "La constelaci\xF3n del R\xEDo, Eridanus, es una larga constelaci\xF3n
+      del hemisferio sur. Representa el r\xEDo Po en la mitolog\xEDa griega. Eridanus
+      se extiende a trav\xE9s del cielo y contiene la brillante estrella Achernar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1765995305
+    m_Localized: "La constelaci\xF3n del Horno, Fornax, es una constelaci\xF3n del
+      hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas Louis
+      de Lacaille en el siglo XVIII. Fornax es conocida por el c\xFAmulo de galaxias
+      que lleva su nombre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5875371466
+    m_Localized: "La constelaci\xF3n de G\xE9minis, los gemelos, es una de las constelaciones
+      del zodiaco. Representa a los gemelos C\xE1stor y P\xF3lux en la mitolog\xEDa
+      griega. G\xE9minis es visible en el cielo de invierno y contiene las brillantes
+      estrellas C\xE1stor y P\xF3lux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7335069910
+    m_Localized: "La constelaci\xF3n de la Grulla, Grus, es una constelaci\xF3n del
+      hemisferio sur. Fue introducida por los navegantes holandeses Pieter Dirkszoon
+      Keyser y Frederick de Houtman en el siglo XVI. Grus es conocida por su forma
+      de ave en vuelo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7521655209
+    m_Localized: "La constelaci\xF3n de H\xE9rcules es una gran constelaci\xF3n del
+      hemisferio norte. Representa al h\xE9roe griego H\xE9rcules, famoso por sus
+      doce trabajos. H\xE9rcules contiene el c\xFAmulo globular M13, uno de los m\xE1s
+      brillantes del cielo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427541826
+    m_Localized: "La constelaci\xF3n del Reloj, Horologium, es una constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Horologium es una constelaci\xF3n peque\xF1a
+      pero interesante por sus objetos estelares."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348368821
+    m_Localized: "La constelaci\xF3n de la Hidra es la constelaci\xF3n m\xE1s grande
+      del cielo. Representa a la Hidra de Lerna, una serpiente de m\xFAltiples cabezas
+      en la mitolog\xEDa griega. Hydra se extiende a trav\xE9s del cielo y contiene
+      la brillante estrella Alphard."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6588931664
+    m_Localized: "La constelaci\xF3n de la Serpiente de Agua, Hydrus, es una peque\xF1a
+      constelaci\xF3n del hemisferio sur. Fue introducida por los navegantes holandeses
+      Pieter Dirkszoon Keyser y Frederick de Houtman en el siglo XVI. Hydrus es conocida
+      por su proximidad a la Nube Peque\xF1a de Magallanes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7570754483
+    m_Localized: "La constelaci\xF3n del Indio, Indus, es una constelaci\xF3n del
+      hemisferio sur. Representa a un ind\xEDgena americano y fue introducida por
+      los navegantes holandeses en el siglo XVI. Indus es una constelaci\xF3n peque\xF1a
+      pero significativa en la cartograf\xEDa estelar de la era de exploraci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9179844885
+    m_Localized: "La constelaci\xF3n del Lagarto, Lacerta, es una peque\xF1a constelaci\xF3n
+      del hemisferio norte. Fue introducida por el astr\xF3nomo polaco Johannes Hevelius
+      en el siglo XVII. Lacerta es conocida por su ubicaci\xF3n entre las constelaciones
+      de Cygnus y Andromeda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5467176811
+    m_Localized: "La constelaci\xF3n de Leo, el Le\xF3n, es una de las constelaciones
+      del zodiaco. Representa al le\xF3n de Nemea en la mitolog\xEDa griega. Leo
+      es visible en el cielo de primavera y es reconocible por su forma de le\xF3n
+      y la brillante estrella Regulus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5418805932
+    m_Localized: "La constelaci\xF3n del Le\xF3n Menor, Leo Minor, es una peque\xF1a
+      constelaci\xF3n del hemisferio norte. Fue introducida por el astr\xF3nomo polaco
+      Johannes Hevelius en el siglo XVII. Leo Minor es una constelaci\xF3n tenue
+      pero interesante para los observadores de estrellas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108680158
+    m_Localized: "La constelaci\xF3n de la Liebre, Lepus, es una constelaci\xF3n
+      del hemisferio sur. Representa a una liebre y es visible cerca de la constelaci\xF3n
+      de Ori\xF3n. Lepus es conocida por su brillante estrella Arneb."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276684559
+    m_Localized: "La constelaci\xF3n de la Balanza, Libra, es una de las constelaciones
+      del zodiaco. Representa la balanza de la justicia y es visible en el cielo
+      de primavera y verano. Libra es una constelaci\xF3n relativamente tenue pero
+      significativa en astrolog\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9330340787
+    m_Localized: "La constelaci\xF3n del Lobo, Lupus, es una constelaci\xF3n del
+      hemisferio sur. Representa a un lobo y es visible cerca de la constelaci\xF3n
+      de Centaurus. Lupus es conocida por sus estrellas brillantes y su historia
+      mitol\xF3gica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178653819
+    m_Localized: "La constelaci\xF3n del Lince, Lynx, es una constelaci\xF3n del
+      hemisferio norte. Fue introducida por el astr\xF3nomo polaco Johannes Hevelius
+      en el siglo XVII. Lynx es una constelaci\xF3n tenue pero interesante por su
+      ubicaci\xF3n entre las constelaciones de Auriga y Ursa Major."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4774797896
+    m_Localized: "La constelaci\xF3n de la Lira, Lyra, es una peque\xF1a constelaci\xF3n
+      del hemisferio norte. Representa la lira de Orfeo en la mitolog\xEDa griega.
+      Lyra contiene la brillante estrella Vega, una de las estrellas m\xE1s brillantes
+      del cielo y parte del Tri\xE1ngulo de Verano."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636058425
+    m_Localized: "La constelaci\xF3n de la Mesa, Mensa, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Mensa es conocida por su proximidad a
+      la Nube Mayor de Magallanes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6214089088
+    m_Localized: "La constelaci\xF3n del Microscopio, Microscopium, es una peque\xF1a
+      constelaci\xF3n del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s
+      Nicolas Louis de Lacaille en el siglo XVIII. Microscopium es una constelaci\xF3n
+      tenue pero interesante para los astr\xF3nomos aficionados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8018754709
+    m_Localized: "La constelaci\xF3n del Unicornio, Monoceros, es una constelaci\xF3n
+      del hemisferio norte. Fue introducida por el astr\xF3nomo alem\xE1n Jakob Bartsch
+      en el siglo XVII. Monoceros es conocida por sus c\xFAmulos estelares y nebulosas,
+      incluyendo la Nebulosa del Cono."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4772526161
+    m_Localized: "La constelaci\xF3n de la Mosca, Musca, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por los navegantes holandeses Pieter Dirkszoon
+      Keyser y Frederick de Houtman en el siglo XVI. Musca es visible cerca de la
+      constelaci\xF3n de Crux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7376084263
+    m_Localized: "La constelaci\xF3n de la Regla, Norma, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Norma es conocida por sus c\xFAmulos estelares
+      y su proximidad a la V\xEDa L\xE1ctea."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530436629
+    m_Localized: "La constelaci\xF3n del Octante, Octans, es una constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Octans es notable por contener el polo
+      sur celeste."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5382770043
+    m_Localized: "La constelaci\xF3n de Ofiuco, el portador de la serpiente, es una
+      gran constelaci\xF3n ecuatorial. Representa a Asclepio, el dios griego de la
+      medicina. Ofiuco es interesante por su ubicaci\xF3n entre las constelaciones
+      de Serpens y la V\xEDa L\xE1ctea."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472171693
+    m_Localized: "La constelaci\xF3n de Ori\xF3n es una de las constelaciones m\xE1s
+      reconocibles del cielo. Representa al cazador Ori\xF3n en la mitolog\xEDa griega.
+      Ori\xF3n es conocida por su cintur\xF3n, formado por tres estrellas alineadas,
+      y por la brillante estrella Betelgeuse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26391795
+    m_Localized: "La constelaci\xF3n del Pavo, Pavo, es una constelaci\xF3n del hemisferio
+      sur. Fue introducida por los navegantes holandeses Pieter Dirkszoon Keyser
+      y Frederick de Houtman en el siglo XVI. Pavo es conocida por su estrella brillante,
+      Peacock."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7102038698
+    m_Localized: "La constelaci\xF3n de Pegaso es una gran constelaci\xF3n del hemisferio
+      norte. Representa al caballo alado de la mitolog\xEDa griega. Pegaso es conocido
+      por el Gran Cuadrado de Pegaso, un asterismo formado por cuatro estrellas brillantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5955241200
+    m_Localized: "La constelaci\xF3n de Perseo es una constelaci\xF3n del hemisferio
+      norte. Representa al h\xE9roe griego Perseo, que mat\xF3 a Medusa. Perseo es
+      conocida por la lluvia de meteoros de las Perseidas y por la brillante estrella
+      Algol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274661308
+    m_Localized: "La constelaci\xF3n del F\xE9nix es una constelaci\xF3n del hemisferio
+      sur. Representa al ave f\xE9nix de la mitolog\xEDa griega, que renace de sus
+      cenizas. Phoenix es visible en el cielo de primavera y verano del hemisferio
+      sur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466117612
+    m_Localized: "La constelaci\xF3n del Caballete, Pictor, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Pictor representa un caballete de pintor
+      y es conocida por su estrella brillante, Alpha Pictoris."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5590039785
+    m_Localized: "La constelaci\xF3n de Piscis, los peces, es una de las constelaciones
+      del zodiaco. Representa a dos peces atados por sus colas en la mitolog\xEDa
+      griega. Piscis es visible en el cielo de oto\xF1o y es conocida por su importancia
+      astrol\xF3gica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8579107686
+    m_Localized: "La constelaci\xF3n del Pez Austral, Piscis Austrinus, es una constelaci\xF3n
+      del hemisferio sur. Representa a un pez y es conocida por la brillante estrella
+      Fomalhaut, una de las estrellas m\xE1s brillantes del cielo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6067821544
+    m_Localized: "La constelaci\xF3n de la Popa, Puppis, es parte de la antigua constelaci\xF3n
+      de Argo Navis. Representa la popa del barco de los Argonautas en la mitolog\xEDa
+      griega. Puppis es una constelaci\xF3n rica en c\xFAmulos estelares y nebulosas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 785943800
+    m_Localized: "La constelaci\xF3n de la Br\xFAjula, Pyxis, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Pyxis representa una br\xFAjula n\xE1utica
+      y es visible en el cielo de verano del hemisferio sur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1172917778
+    m_Localized: "La constelaci\xF3n del Ret\xEDculo, Reticulum, es una peque\xF1a
+      constelaci\xF3n del hemisferio sur. Representa un ret\xEDculo utilizado en
+      instrumentos de navegaci\xF3n y observaci\xF3n. Reticulum es visible cerca
+      de la constelaci\xF3n de Dorado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5507550249
+    m_Localized: "La constelaci\xF3n de la Flecha, Sagitta, es una peque\xF1a constelaci\xF3n
+      del hemisferio norte. Representa una flecha y es visible en el cielo de verano.
+      Sagitta es una de las constelaciones m\xE1s peque\xF1as pero distintivas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3678648982
+    m_Localized: "La constelaci\xF3n de Sagitario, el arquero, es una de las constelaciones
+      del zodiaco. Representa a un centauro arquero. Sagitario es conocida por su
+      ubicaci\xF3n en la V\xEDa L\xE1ctea y por contener el centro gal\xE1ctico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1767443906
+    m_Localized: "La constelaci\xF3n del Escorpi\xF3n, Scorpius, es una de las constelaciones
+      del zodiaco. Representa al escorpi\xF3n que mat\xF3 a Ori\xF3n en la mitolog\xEDa
+      griega. Scorpius es conocida por la brillante estrella Antares y su ubicaci\xF3n
+      en la V\xEDa L\xE1ctea."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8617710067
+    m_Localized: "La constelaci\xF3n del Escultor, Sculptor, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s Nicolas
+      Louis de Lacaille en el siglo XVIII. Sculptor es conocida por el grupo de galaxias
+      que lleva su nombre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1961781688
+    m_Localized: "La constelaci\xF3n del Escudo, Scutum, es una peque\xF1a constelaci\xF3n
+      del hemisferio norte. Fue introducida por el astr\xF3nomo polaco Johannes Hevelius
+      en el siglo XVII. Scutum es conocida por el c\xFAmulo estelar M11, tambi\xE9n
+      conocido como el C\xFAmulo del Pato Salvaje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160683131
+    m_Localized: "La constelaci\xF3n de la Serpiente, Serpens, es una constelaci\xF3n
+      ecuatorial \xFAnica, ya que est\xE1 dividida en dos partes por la constelaci\xF3n
+      de Ophiuchus. Representa una serpiente y es visible en el cielo de verano."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646230814
+    m_Localized: "La constelaci\xF3n del Sextante, Sextans, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por el astr\xF3nomo polaco Johannes Hevelius
+      en el siglo XVII. Sextans es conocida por su proximidad a la constelaci\xF3n
+      de Leo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8430837929
+    m_Localized: "La constelaci\xF3n de Tauro, el toro, es una de las constelaciones
+      del zodiaco. Representa al toro en el que se transform\xF3 Zeus para secuestrar
+      a Europa. Tauro es conocida por la brillante estrella Aldebar\xE1n y los c\xFAmulos
+      estelares de las Pl\xE9yades y las H\xEDades."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1754083709
+    m_Localized: "La constelaci\xF3n del Telescopio, Telescopium, es una peque\xF1a
+      constelaci\xF3n del hemisferio sur. Fue introducida por el astr\xF3nomo franc\xE9s
+      Nicolas Louis de Lacaille en el siglo XVIII. Telescopium es conocida por su
+      proximidad a la V\xEDa L\xE1ctea."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8080702217
+    m_Localized: "La constelaci\xF3n del Tri\xE1ngulo, Triangulum, es una peque\xF1a
+      constelaci\xF3n del hemisferio norte. Representa un tri\xE1ngulo y es conocida
+      por la galaxia espiral M33, tambi\xE9n conocida como la Galaxia del Tri\xE1ngulo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5803016926
+    m_Localized: "La constelaci\xF3n del Tri\xE1ngulo Austral, Triangulum Australe,
+      es una peque\xF1a constelaci\xF3n del hemisferio sur. Representa un tri\xE1ngulo
+      y es visible en el cielo de invierno del hemisferio sur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5470327255
+    m_Localized: "La constelaci\xF3n del Tuc\xE1n, Tucana, es una constelaci\xF3n
+      del hemisferio sur. Fue introducida por los navegantes holandeses Pieter Dirkszoon
+      Keyser y Frederick de Houtman en el siglo XVI. Tucana es conocida por albergar
+      la Peque\xF1a Nube de Magallanes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8111300390
+    m_Localized: "La constelaci\xF3n de la Osa Mayor es una gran constelaci\xF3n
+      del hemisferio norte. Contiene el famoso asterismo del Gran Carro y es visible
+      durante todo el a\xF1o desde latitudes septentrionales. Ursa Major es importante
+      en la mitolog\xEDa y la navegaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4776422055
+    m_Localized: "La constelaci\xF3n de la Osa Menor es una constelaci\xF3n del hemisferio
+      norte. Contiene la estrella Polaris, la estrella del norte, que ha sido crucial
+      para la navegaci\xF3n. Ursa Minor es visible durante todo el a\xF1o en latitudes
+      norte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7552495442
+    m_Localized: "La constelaci\xF3n de las Velas, Vela, es parte de la antigua constelaci\xF3n
+      de Argo Navis. Representa las velas del barco de los Argonautas en la mitolog\xEDa
+      griega. Vela es rica en objetos astron\xF3micos, incluyendo c\xFAmulos estelares
+      y nebulosas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7093837326
+    m_Localized: "La constelaci\xF3n de Virgo, la doncella, es una de las constelaciones
+      del zodiaco. Representa a Dem\xE9ter, la diosa de la agricultura en la mitolog\xEDa
+      griega. Virgo es conocida por la brillante estrella Spica y el c\xFAmulo de
+      galaxias de Virgo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9759622741
+    m_Localized: "La constelaci\xF3n del Pez Volador, Volans, es una peque\xF1a constelaci\xF3n
+      del hemisferio sur. Fue introducida por los navegantes holandeses Pieter Dirkszoon
+      Keyser y Frederick de Houtman en el siglo XVI. Volans es conocida por su proximidad
+      a la constelaci\xF3n de Dorado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4563662375
+    m_Localized: "La constelaci\xF3n de la Zorra, Vulpecula, es una peque\xF1a constelaci\xF3n
+      del hemisferio norte. Fue introducida por el astr\xF3nomo polaco Johannes Hevelius
+      en el siglo XVII. Vulpecula es conocida por albergar el objeto Messier 27,
+      tambi\xE9n conocido como la Nebulosa Dumbbell."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352576246
+    m_Localized: "Mercurio es el planeta m\xE1s cercano al Sol y el m\xE1s peque\xF1o
+      del sistema solar. Su nombre proviene del dios romano del comercio y los mensajeros.
+      Mercurio tiene una superficie rocosa cubierta de cr\xE1teres, similar a la
+      de la Luna, y experimenta temperaturas extremas debido a su proximidad al Sol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4082681606
+    m_Localized: "Venus es el segundo planeta desde el Sol y se le conoce como el
+      lucero del alba o vespertino debido a su brillo. Es el planeta m\xE1s caliente
+      del sistema solar debido a su densa atm\xF3sfera de di\xF3xido de carbono,
+      que causa un efecto invernadero extremo. Venus tiene una superficie volc\xE1nica
+      y es similar en tama\xF1o y composici\xF3n a la Tierra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6829351913
+    m_Localized: "Marte, el cuarto planeta desde el Sol, es conocido como el planeta
+      rojo por su apariencia rojiza causada por el \xF3xido de hierro en su superficie.
+      Marte es el hogar de los mayores volcanes, como el Monte Olimpo, y ca\xF1ones,
+      como el Valle Marineris, del sistema solar. Ha sido objeto de numerosas misiones
+      espaciales en busca de se\xF1ales de vida pasada o presente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160202732
+    m_Localized: "J\xFApiter es el quinto planeta desde el Sol y el m\xE1s grande
+      del sistema solar. Tiene un sistema de anillos tenue y es conocido por su Gran
+      Mancha Roja, una tormenta gigante que ha existido durante siglos. J\xFApiter
+      tiene al menos 79 lunas, incluyendo las cuatro grandes lunas galileanas: \xCDo,
+      Europa, Ganimedes y Calisto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5264441002
+    m_Localized: "Saturno es el sexto planeta desde el Sol y es famoso por sus impresionantes
+      anillos, compuestos de hielo y roca. Es el segundo planeta m\xE1s grande del
+      sistema solar y tiene al menos 83 lunas, incluyendo Tit\xE1n, la segunda luna
+      m\xE1s grande del sistema solar. Los anillos de Saturno son visibles incluso
+      con telescopios peque\xF1os."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81821482
+    m_Localized: "Urano es el s\xE9ptimo planeta desde el Sol y tiene una inclinaci\xF3n
+      axial extrema que lo hace girar de lado. Es conocido por su color azul verdoso
+      debido al metano en su atm\xF3sfera. Urano tiene un sistema de anillos y 27
+      lunas conocidas. Fue descubierto por William Herschel en 1781."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098374386
+    m_Localized: "Neptuno es el octavo planeta desde el Sol y es conocido por sus
+      fuertes vientos y su color azul profundo. Es el planeta m\xE1s lejano del sistema
+      solar y tiene 14 lunas conocidas. Neptuno fue descubierto en 1846 y su atm\xF3sfera
+      est\xE1 compuesta principalmente de hidr\xF3geno, helio y metano."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1876561093
+    m_Localized: "Plut\xF3n es un planeta enano en el cintur\xF3n de Kuiper. Fue
+      considerado el noveno planeta del sistema solar hasta 2006, cuando fue reclasificado
+      como planeta enano. Plut\xF3n tiene cinco lunas conocidas, siendo Caronte la
+      m\xE1s grande. Es conocido por su \xF3rbita exc\xE9ntrica y su superficie helada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4845495557
+    m_Localized: "El Sol es la estrella en el centro del sistema solar. Proporciona
+      la energ\xEDa necesaria para la vida en la Tierra y es una enana amarilla.
+      El Sol est\xE1 compuesto principalmente de hidr\xF3geno y helio y genera energ\xEDa
+      a trav\xE9s de la fusi\xF3n nuclear. Es una estrella de mediana edad y ha estado
+      brillando durante aproximadamente 4.6 mil millones de a\xF1os."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701267866058752
+    m_Localized: "La Tierra es el tercer planeta desde el Sol y es conocida por ser
+      el \xFAnico cuerpo celestial conocido que alberga vida. Con un 70% de su superficie
+      cubierta por agua, su atm\xF3sfera est\xE1 compuesta principalmente de nitr\xF3geno
+      y ox\xEDgeno. La Tierra tiene una \xFAnica luna, la Luna, que juega un papel
+      crucial en las mareas y en la estabilidad del eje del planeta. Formada hace
+      aproximadamente 4.5 mil millones de a\xF1os, la Tierra orbita a una distancia
+      media de 150 millones de kil\xF3metros del Sol. Su n\xFAcleo de hierro y n\xEDquel
+      genera un campo magn\xE9tico que protege al planeta de la radiaci\xF3n solar."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

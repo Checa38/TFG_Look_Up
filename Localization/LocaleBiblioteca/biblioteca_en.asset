@@ -1,0 +1,691 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: biblioteca_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: abbcbc30a13c06e44a8790eec5aa8292, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9503695045
+    m_Localized: The constellation Andromeda is known for hosting the Andromeda Galaxy,
+      the closest spiral galaxy to the Milky Way. Discovered in antiquity, Andromeda
+      is related to Greek mythology, where it represents Princess Andromeda, daughter
+      of Cassiopeia and Cepheus, rescued by Perseus. Visible from the northern hemisphere,
+      it is one of the largest constellations in the night sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036967758
+    m_Localized: The constellation Antlia was introduced by French astronomer Nicolas
+      Louis de Lacaille in the 18th century. It represents an air pump and was named
+      during his observations in the southern hemisphere. Although it is a weak constellation,
+      Antlia stands out for its representation of technology and innovation in ancient
+      times.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9733758224
+    m_Localized: The constellation Apus, the Bird of Paradise, was created by Dutch
+      navigators Pieter Dirkszoon Keyser and Frederick de Houtman in the 16th century.
+      It represents an exotic bird without feet, alluding to the birds of paradise
+      that were believed never to touch the ground. Apus is a southern hemisphere
+      constellation, mainly visible from southern latitudes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3058774381
+    m_Localized: The constellation Aquarius, the water bearer, is one of the zodiac
+      constellations. Known since antiquity, it is associated with Ganymede, the
+      cupbearer of the gods in Greek mythology. Aquarius is an extensive and prominent
+      constellation in the night sky, recognizable by its numerous stars and its
+      rich mythological history.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6987417007
+    m_Localized: The constellation Aquila, the Eagle, is visible in the northern
+      hemisphere during summer. It represents the eagle that carried the god Zeus
+      in Greek mythology. Aquila is easily identifiable by the bright star Altair,
+      which is part of the Summer Triangle along with Deneb and Vega.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2183934241
+    m_Localized: The constellation Ara, the Altar, is a southern hemisphere constellation.
+      It is believed to represent the altar where the Greek gods swore loyalty before
+      their battle against the Titans. Ara is an ancient constellation and its distinctive
+      shape has been associated with various mythological stories throughout the
+      centuries.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1963578271
+    m_Localized: The constellation Aries, the Ram, is another zodiac constellation.
+      It has been recognized since antiquity and is associated with the golden ram
+      of Greek mythology that carried Phrixus and Helle to Colchis. Aries is important
+      in both astronomy and astrology, and its history is full of legends and symbolism.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504686538
+    m_Localized: The constellation Auriga, the Charioteer, is visible in the northern
+      hemisphere. It is associated with Erichthonius of Athens, who invented the
+      chariot drawn by four horses. Auriga contains the bright star Capella and several
+      other interesting stars and star clusters, making it a fascinating constellation
+      to observe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874584995
+    m_Localized: The constellation Bootes, the Herdsman, is known for the bright
+      star Arcturus, one of the brightest stars in the night sky. It represents a
+      farmer or shepherd guarding the bears (constellations Ursa Major and Ursa Minor).
+      Bootes is a prominent constellation in the spring and summer sky of the northern
+      hemisphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8717651739
+    m_Localized: The constellation Caelum, the Chisel, was introduced by French astronomer
+      Nicolas Louis de Lacaille in the 18th century. It represents an engraving tool
+      used in sculpture. Caelum is one of the minor constellations in the sky, but
+      its history reflects the Age of Enlightenment and the expansion of scientific
+      knowledge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384203571
+    m_Localized: The constellation Camelopardalis, the Giraffe, is a large and faint
+      constellation in the northern hemisphere. It was introduced by Petrus Plancius
+      in the 17th century. Its name comes from the Latin 'camel' and 'leopard', as
+      the giraffe was thought to be a mix of these two animals. Although it does
+      not contain very bright stars, it is visible all year round from northern latitudes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296882440
+    m_Localized: The constellation Cancer, the Crab, is one of the zodiac constellations.
+      It represents the crab sent by Hera to attack Heracles in Greek mythology.
+      Although Cancer is a relatively faint constellation, its astrological significance
+      and location between the constellations of Gemini and Leo make it notable.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8191775591
+    m_Localized: The constellation Canes Venatici, the Hunting Dogs, was created
+      by Johannes Hevelius in the 17th century. It represents the hunting dogs of
+      Bootes. It is a small but interesting constellation, with the notable spiral
+      galaxy M51, also known as the Whirlpool Galaxy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5184749964
+    m_Localized: The constellation Canis Major, the Greater Dog, is known for the
+      brightest star in the night sky, Sirius. It represents the hunting dog of Orion
+      in Greek mythology. Canis Major is a prominent constellation in the southern
+      hemisphere and is visible in the winter skies of the northern hemisphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6334925050
+    m_Localized: The constellation Canis Minor, the Lesser Dog, contains the star
+      Procyon. It represents one of Orion's hunting dogs in Greek mythology. Although
+      it is a small constellation, Canis Minor is easily identifiable and is visible
+      in the winter sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4897050835
+    m_Localized: The constellation Capricornus, the Sea Goat, is one of the zodiac
+      constellations. It is associated with the goat Amalthea and the god Pan in
+      Greek mythology. Capricornus is a relatively faint constellation, but its astrological
+      and mythological history is rich and complex.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7892847611
+    m_Localized: The constellation Carina, the Keel, is part of the ancient constellation
+      of Argo Navis. It represents the keel of the ship of the Argonauts in Greek
+      mythology. Carina contains the second brightest star in the night sky, Canopus,
+      and is mainly visible from the southern hemisphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1543206997
+    m_Localized: The constellation Cassiopeia is easily recognizable by its 'W' shape.
+      It represents the vain queen of Ethiopia in Greek mythology, mother of Andromeda.
+      Cassiopeia is a circumpolar constellation in the northern hemisphere, visible
+      all year round.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4765171187
+    m_Localized: The constellation Centaurus is a prominent constellation in the
+      southern hemisphere. It represents the wise centaur Chiron in Greek mythology.
+      It contains the closest star to the solar system, Proxima Centauri, and is
+      one of the largest and brightest constellations in the sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5237469072
+    m_Localized: The constellation Cepheus is a northern hemisphere constellation.
+      It represents the king of Ethiopia and husband of Cassiopeia in Greek mythology.
+      Cepheus is a circumpolar constellation at northern latitudes, known for its
+      distinctive house-like shape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941370926
+    m_Localized: The constellation Cetus, the Whale or Sea Monster, is a large equatorial
+      constellation. It is associated with the monster sent by Poseidon to devour
+      Andromeda in Greek mythology. Cetus contains several interesting stars and
+      objects, including the variable star Mira.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6999716023
+    m_Localized: The constellation Chamaeleon is a southern hemisphere constellation.
+      It was introduced by Dutch navigators Pieter Dirkszoon Keyser and Frederick
+      de Houtman in the 16th century. It represents a chameleon and is visible in
+      southern skies, although it does not contain very bright stars.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6269967084
+    m_Localized: The constellation Circinus, the Compass, is a small constellation
+      in the southern hemisphere. It was introduced by French astronomer Nicolas
+      Louis de Lacaille in the 18th century. Circinus is a faint constellation, but
+      it is interesting for its proximity to the Milky Way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647185086
+    m_Localized: The constellation Columba, the Dove, represents the dove that carried
+      the olive branch to Noah in the Bible. It was introduced by Petrus Plancius
+      in the 16th century. Columba is visible from the southern hemisphere and contains
+      several bright stars.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9233479557
+    m_Localized: The constellation Coma Berenices, Berenice's Hair, is a small constellation
+      in the northern hemisphere. It represents the hair of Queen Berenice II of
+      Egypt, who offered her hair to the gods. It is known for its star clusters
+      and galaxies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7406393757
+    m_Localized: The constellation Corona Australis, the Southern Crown, is a southern
+      hemisphere constellation. It represents a crown or wreath and is visible in
+      southern skies. Corona Australis is small but easily recognizable by its arc
+      shape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3683368548
+    m_Localized: The constellation Corona Borealis, the Northern Crown, is a small
+      constellation in the northern hemisphere. It represents the crown of Ariadne
+      in Greek mythology. It is visible in the spring and summer sky, standing out
+      for its semicircular shape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653729973
+    m_Localized: The constellation Corvus, the Crow, is a small constellation in
+      the southern hemisphere. It represents Apollo's crow in Greek mythology. Corvus
+      is easily identifiable near the constellation Virgo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447584645
+    m_Localized: The constellation Crater, the Cup, is a small constellation in the
+      southern hemisphere. It represents Apollo's cup in Greek mythology. Crater
+      is a faint constellation, but its shape is distinctive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4097979073
+    m_Localized: The constellation Crux, the Southern Cross, is a prominent constellation
+      in the southern hemisphere. It is an important cultural and religious symbol
+      in many southern hemisphere cultures. Crux is easily recognizable and is used
+      in navigation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407596511
+    m_Localized: The constellation Cygnus, the Swan, is a northern hemisphere constellation.
+      It represents a swan flying along the Milky Way. It contains the bright star
+      Deneb, one of the stars of the Summer Triangle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 602982634
+    m_Localized: The constellation Delphinus, the Dolphin, is a small constellation
+      in the northern hemisphere. It represents a dolphin in Greek mythology. Delphinus
+      is visible in the summer and autumn sky and is known for its distinctive shape.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8291191025
+    m_Localized: The constellation Dorado, the Goldfish, is a southern hemisphere
+      constellation. It was introduced by Dutch navigators Pieter Dirkszoon Keyser
+      and Frederick de Houtman in the 16th century. Dorado is known for hosting the
+      Large Magellanic Cloud.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7611001339
+    m_Localized: The constellation Draco, the Dragon, is a large northern hemisphere
+      constellation. It represents the dragon Ladon in Greek mythology, who guarded
+      the golden apples in the Garden of the Hesperides. Draco is circumpolar and
+      visible all year round from northern latitudes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30117019
+    m_Localized: The constellation Equuleus, the Foal, is a small northern hemisphere
+      constellation. It represents a foal and is one of the smallest constellations
+      in the sky. Equuleus is visible in the summer and autumn sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8446883668
+    m_Localized: The constellation Eridanus, the River, is a long southern hemisphere
+      constellation. It represents the river Po in Greek mythology. Eridanus stretches
+      across the sky and contains the bright star Achernar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1765995305
+    m_Localized: The constellation Fornax, the Furnace, is a southern hemisphere
+      constellation. It was introduced by French astronomer Nicolas Louis de Lacaille
+      in the 18th century. Fornax is known for the galaxy cluster that bears its
+      name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5875371466
+    m_Localized: The constellation Gemini, the Twins, is one of the zodiac constellations.
+      It represents the twins Castor and Pollux in Greek mythology. Gemini is visible
+      in the winter sky and contains the bright stars Castor and Pollux.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7335069910
+    m_Localized: The constellation Grus, the Crane, is a southern hemisphere constellation.
+      It was introduced by Dutch navigators Pieter Dirkszoon Keyser and Frederick
+      de Houtman in the 16th century. Grus is known for its bird-like shape in flight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7521655209
+    m_Localized: The constellation Hercules is a large northern hemisphere constellation.
+      It represents the Greek hero Hercules, famous for his twelve labors. Hercules
+      contains the globular cluster M13, one of the brightest in the sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427541826
+    m_Localized: The constellation Horologium, the Clock, is a southern hemisphere
+      constellation. It was introduced by French astronomer Nicolas Louis de Lacaille
+      in the 18th century. Horologium is a small but interesting constellation due
+      to its stellar objects.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348368821
+    m_Localized: The constellation Hydra is the largest constellation in the sky.
+      It represents the Lernaean Hydra, a multi-headed serpent in Greek mythology.
+      Hydra stretches across the sky and contains the bright star Alphard.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6588931664
+    m_Localized: The constellation Hydrus, the Water Snake, is a small constellation
+      in the southern hemisphere. It was introduced by Dutch navigators Pieter Dirkszoon
+      Keyser and Frederick de Houtman in the 16th century. Hydrus is known for its
+      proximity to the Small Magellanic Cloud.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7570754483
+    m_Localized: The constellation Indus, the Indian, is a southern hemisphere constellation.
+      It represents a Native American and was introduced by Dutch navigators in the
+      16th century. Indus is a small but significant constellation in the star mapping
+      of the Age of Exploration.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9179844885
+    m_Localized: The constellation Lacerta, the Lizard, is a small northern hemisphere
+      constellation. It was introduced by Polish astronomer Johannes Hevelius in
+      the 17th century. Lacerta is known for its location between the constellations
+      Cygnus and Andromeda.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5467176811
+    m_Localized: The constellation Leo, the Lion, is one of the zodiac constellations.
+      It represents the Nemean Lion in Greek mythology. Leo is visible in the spring
+      sky and is recognizable by its lion shape and the bright star Regulus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5418805932
+    m_Localized: The constellation Leo Minor, the Lesser Lion, is a small northern
+      hemisphere constellation. It was introduced by Polish astronomer Johannes Hevelius
+      in the 17th century. Leo Minor is a faint constellation but interesting for
+      star watchers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108680158
+    m_Localized: The constellation Lepus, the Hare, is a southern hemisphere constellation.
+      It represents a hare and is visible near the constellation Orion. Lepus is
+      known for its bright star Arneb.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276684559
+    m_Localized: The constellation Libra, the Scales, is one of the zodiac constellations.
+      It represents the scales of justice and is visible in the spring and summer
+      sky. Libra is a relatively faint constellation but significant in astrology.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9330340787
+    m_Localized: The constellation Lupus, the Wolf, is a southern hemisphere constellation.
+      It represents a wolf and is visible near the constellation Centaurus. Lupus
+      is known for its bright stars and its mythological history.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178653819
+    m_Localized: The constellation Lynx is a northern hemisphere constellation. It
+      was introduced by Polish astronomer Johannes Hevelius in the 17th century.
+      Lynx is a faint constellation but interesting for its location between the
+      constellations Auriga and Ursa Major.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4774797896
+    m_Localized: The constellation Lyra, the Lyre, is a small northern hemisphere
+      constellation. It represents the lyre of Orpheus in Greek mythology. Lyra contains
+      the bright star Vega, one of the brightest stars in the sky and part of the
+      Summer Triangle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636058425
+    m_Localized: The constellation Mensa, the Table, is a small southern hemisphere
+      constellation. It was introduced by French astronomer Nicolas Louis de Lacaille
+      in the 18th century. Mensa is known for its proximity to the Large Magellanic
+      Cloud.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6214089088
+    m_Localized: The constellation Microscopium, the Microscope, is a small southern
+      hemisphere constellation. It was introduced by French astronomer Nicolas Louis
+      de Lacaille in the 18th century. Microscopium is a faint constellation but
+      interesting for amateur astronomers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8018754709
+    m_Localized: The constellation Monoceros, the Unicorn, is a northern hemisphere
+      constellation. It was introduced by German astronomer Jakob Bartsch in the
+      17th century. Monoceros is known for its star clusters and nebulae, including
+      the Cone Nebula.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4772526161
+    m_Localized: The constellation Musca, the Fly, is a small southern hemisphere
+      constellation. It was introduced by Dutch navigators Pieter Dirkszoon Keyser
+      and Frederick de Houtman in the 16th century. Musca is visible near the constellation
+      Crux.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7376084263
+    m_Localized: The constellation Norma, the Square, is a small southern hemisphere
+      constellation. It was introduced by French astronomer Nicolas Louis de Lacaille
+      in the 18th century. Norma is known for its star clusters and its proximity
+      to the Milky Way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530436629
+    m_Localized: The constellation Octans, the Octant, is a southern hemisphere constellation.
+      It was introduced by French astronomer Nicolas Louis de Lacaille in the 18th
+      century. Octans is notable for containing the south celestial pole.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5382770043
+    m_Localized: The constellation Ophiuchus, the Serpent Bearer, is a large equatorial
+      constellation. It represents Asclepius, the Greek god of medicine. Ophiuchus
+      is interesting for its location between the constellations of Serpens and the
+      Milky Way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472171693
+    m_Localized: The constellation Orion is one of the most recognizable constellations
+      in the sky. It represents the hunter Orion in Greek mythology. Orion is known
+      for its belt, formed by three aligned stars, and for the bright star Betelgeuse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26391795
+    m_Localized: The constellation Pavo, the Peacock, is a southern hemisphere constellation.
+      It was introduced by Dutch navigators Pieter Dirkszoon Keyser and Frederick
+      de Houtman in the 16th century. Pavo is known for its bright star, Peacock.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7102038698
+    m_Localized: The constellation Pegasus is a large northern hemisphere constellation.
+      It represents the winged horse of Greek mythology. Pegasus is known for the
+      Great Square of Pegasus, an asterism formed by four bright stars.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5955241200
+    m_Localized: The constellation Perseus is a northern hemisphere constellation.
+      It represents the Greek hero Perseus, who killed Medusa. Perseus is known for
+      the Perseid meteor shower and the bright star Algol.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274661308
+    m_Localized: The constellation Phoenix is a southern hemisphere constellation.
+      It represents the phoenix bird of Greek mythology, which rises from its ashes.
+      Phoenix is visible in the spring and summer sky of the southern hemisphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466117612
+    m_Localized: The constellation Pictor, the Easel, is a small southern hemisphere
+      constellation. It was introduced by French astronomer Nicolas Louis de Lacaille
+      in the 18th century. Pictor represents a painter's easel and is known for its
+      bright star, Alpha Pictoris.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5590039785
+    m_Localized: The constellation Pisces, the Fish, is one of the zodiac constellations.
+      It represents two fish tied by their tails in Greek mythology. Pisces is visible
+      in the autumn sky and is known for its astrological significance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8579107686
+    m_Localized: The constellation Piscis Austrinus, the Southern Fish, is a southern
+      hemisphere constellation. It represents a fish and is known for the bright
+      star Fomalhaut, one of the brightest stars in the sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6067821544
+    m_Localized: The constellation Puppis, the Stern, is part of the ancient constellation
+      of Argo Navis. It represents the stern of the ship of the Argonauts in Greek
+      mythology. Puppis is a constellation rich in star clusters and nebulae.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 785943800
+    m_Localized: The constellation Pyxis, the Compass, is a small southern hemisphere
+      constellation. It was introduced by French astronomer Nicolas Louis de Lacaille
+      in the 18th century. Pyxis represents a nautical compass and is visible in
+      the summer sky of the southern hemisphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1172917778
+    m_Localized: The constellation Reticulum, the Reticle, is a small southern hemisphere
+      constellation. It represents a reticle used in navigation and observation instruments.
+      Reticulum is visible near the constellation Dorado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5507550249
+    m_Localized: The constellation Sagitta, the Arrow, is a small northern hemisphere
+      constellation. It represents an arrow and is visible in the summer sky. Sagitta
+      is one of the smallest but most distinctive constellations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3678648982
+    m_Localized: The constellation Sagittarius, the Archer, is one of the zodiac
+      constellations. It represents an archer centaur. Sagittarius is known for its
+      location in the Milky Way and for containing the galactic center.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1767443906
+    m_Localized: The constellation Scorpius, the Scorpion, is one of the zodiac constellations.
+      It represents the scorpion that killed Orion in Greek mythology. Scorpius is
+      known for the bright star Antares and its location in the Milky Way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8617710067
+    m_Localized: The constellation Sculptor is a small southern hemisphere constellation.
+      It was introduced by French astronomer Nicolas Louis de Lacaille in the 18th
+      century. Sculptor is known for the galaxy group that bears its name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1961781688
+    m_Localized: The constellation Scutum, the Shield, is a small northern hemisphere
+      constellation. It was introduced by Polish astronomer Johannes Hevelius in
+      the 17th century. Scutum is known for the star cluster M11, also known as the
+      Wild Duck Cluster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160683131
+    m_Localized: The constellation Serpens, the Serpent, is a unique equatorial constellation,
+      as it is divided into two parts by the constellation Ophiuchus. It represents
+      a serpent and is visible in the summer sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646230814
+    m_Localized: The constellation Sextans, the Sextant, is a small southern hemisphere
+      constellation. It was introduced by Polish astronomer Johannes Hevelius in
+      the 17th century. Sextans is known for its proximity to the constellation Leo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8430837929
+    m_Localized: The constellation Taurus, the Bull, is one of the zodiac constellations.
+      It represents the bull into which Zeus transformed to abduct Europa. Taurus
+      is known for the bright star Aldebaran and the star clusters of the Pleiades
+      and Hyades.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1754083709
+    m_Localized: The constellation Telescopium, the Telescope, is a small southern
+      hemisphere constellation. It was introduced by French astronomer Nicolas Louis
+      de Lacaille in the 18th century. Telescopium is known for its proximity to
+      the Milky Way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8080702217
+    m_Localized: The constellation Triangulum is a small northern hemisphere constellation.
+      It represents a triangle and is known for the spiral galaxy M33, also known
+      as the Triangulum Galaxy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5803016926
+    m_Localized: The constellation Triangulum Australe, the Southern Triangle, is
+      a small southern hemisphere constellation. It represents a triangle and is
+      visible in the winter sky of the southern hemisphere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5470327255
+    m_Localized: The constellation Tucana, the Toucan, is a southern hemisphere constellation.
+      It was introduced by Dutch navigators Pieter Dirkszoon Keyser and Frederick
+      de Houtman in the 16th century. Tucana is known for hosting the Small Magellanic
+      Cloud.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8111300390
+    m_Localized: The constellation Ursa Major, the Great Bear, is a large northern
+      hemisphere constellation. It contains the famous asterism of the Big Dipper
+      and is visible all year round from northern latitudes. Ursa Major is important
+      in mythology and navigation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4776422055
+    m_Localized: The constellation Ursa Minor, the Little Bear, is a northern hemisphere
+      constellation. It contains the star Polaris, the North Star, which has been
+      crucial for navigation. Ursa Minor is visible all year round at northern latitudes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7552495442
+    m_Localized: The constellation Vela, the Sails, is part of the ancient constellation
+      of Argo Navis. It represents the sails of the ship of the Argonauts in Greek
+      mythology. Vela is rich in astronomical objects, including star clusters and
+      nebulae.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7093837326
+    m_Localized: The constellation Virgo, the Maiden, is one of the zodiac constellations.
+      It represents Demeter, the goddess of agriculture in Greek mythology. Virgo
+      is known for the bright star Spica and the Virgo galaxy cluster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9759622741
+    m_Localized: The constellation Volans, the Flying Fish, is a small southern hemisphere
+      constellation. It was introduced by Dutch navigators Pieter Dirkszoon Keyser
+      and Frederick de Houtman in the 16th century. Volans is known for its proximity
+      to the constellation Dorado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4563662375
+    m_Localized: The constellation Vulpecula, the Fox, is a small northern hemisphere
+      constellation. It was introduced by Polish astronomer Johannes Hevelius in
+      the 17th century. Vulpecula is known for hosting the Messier 27 object, also
+      known as the Dumbbell Nebula.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352576246
+    m_Localized: Mercury is the closest planet to the Sun and the smallest in the
+      solar system. Its name comes from the Roman god of commerce and messengers.
+      Mercury has a rocky surface covered with craters, similar to the Moon, and
+      experiences extreme temperatures due to its proximity to the Sun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4082681606
+    m_Localized: Venus is the second planet from the Sun and is known as the morning
+      or evening star due to its brightness. It is the hottest planet in the solar
+      system due to its dense carbon dioxide atmosphere, which causes an extreme
+      greenhouse effect. Venus has a volcanic surface and is similar in size and
+      composition to Earth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6829351913
+    m_Localized: Mars, the fourth planet from the Sun, is known as the Red Planet
+      due to its reddish appearance caused by iron oxide on its surface. Mars is
+      home to the largest volcanoes, such as Olympus Mons, and canyons, such as Valles
+      Marineris, in the solar system. It has been the subject of numerous space missions
+      in search of signs of past or present life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160202732
+    m_Localized: 'Jupiter is the fifth planet from the Sun and the largest in the
+      solar system. It has a faint ring system and is known for its Great Red Spot,
+      a giant storm that has existed for centuries. Jupiter has at least 79 moons,
+      including the four large Galilean moons: Io, Europa, Ganymede, and Callisto.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5264441002
+    m_Localized: Saturn is the sixth planet from the Sun and is famous for its impressive
+      rings, composed of ice and rock. It is the second largest planet in the solar
+      system and has at least 83 moons, including Titan, the second largest moon
+      in the solar system. Saturn's rings are visible even with small telescopes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81821482
+    m_Localized: Uranus is the seventh planet from the Sun and has an extreme axial
+      tilt that causes it to rotate on its side. It is known for its blue-green color
+      due to methane in its atmosphere. Uranus has a ring system and 27 known moons.
+      It was discovered by William Herschel in 1781.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098374386
+    m_Localized: Neptune is the eighth planet from the Sun and is known for its strong
+      winds and deep blue color. It is the most distant planet in the solar system
+      and has 14 known moons. Neptune was discovered in 1846 and its atmosphere is
+      primarily composed of hydrogen, helium, and methane.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1876561093
+    m_Localized: Pluto is a dwarf planet in the Kuiper Belt. It was considered the
+      ninth planet in the solar system until 2006, when it was reclassified as a
+      dwarf planet. Pluto has five known moons, with Charon being the largest. It
+      is known for its eccentric orbit and icy surface.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4845495557
+    m_Localized: The Sun is the star at the center of the solar system. It provides
+      the energy necessary for life on Earth and is a yellow dwarf. The Sun is primarily
+      composed of hydrogen and helium and generates energy through nuclear fusion.
+      It is a middle-aged star and has been shining for approximately 4.6 billion
+      years.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701267866058752
+    m_Localized: Earth is the third planet from the Sun and is known for being the
+      only celestial body known to harbor life. With 70% of its surface covered by
+      water, its atmosphere is primarily composed of nitrogen and oxygen. Earth has
+      a single moon, the Moon, which plays a crucial role in tides and the stability
+      of the planet's axis. Formed approximately 4.5 billion years ago, Earth orbits
+      at an average distance of 150 million kilometers from the Sun. Its core of
+      iron and nickel generates a magnetic field that protects the planet from solar
+      radiation.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

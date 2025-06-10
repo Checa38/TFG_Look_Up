@@ -1,0 +1,421 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: biblioteca Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: biblioteca
+  m_TableCollectionNameGuidString: abbcbc30a13c06e44a8790eec5aa8292
+  m_Entries:
+  - m_Id: 9503695045
+    m_Key: Andromeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2036967758
+    m_Key: Antlia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9733758224
+    m_Key: Apus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3058774381
+    m_Key: Aquarius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6987417007
+    m_Key: Aquila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2183934241
+    m_Key: Ara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1963578271
+    m_Key: Aries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504686538
+    m_Key: Auriga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9874584995
+    m_Key: Bootes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8717651739
+    m_Key: Caelum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1384203571
+    m_Key: Camelopardalis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7296882440
+    m_Key: Cancer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8191775591
+    m_Key: Canes Venatici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5184749964
+    m_Key: Canis Major
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6334925050
+    m_Key: Canis Minor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4897050835
+    m_Key: Capricornus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7892847611
+    m_Key: Carina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1543206997
+    m_Key: Cassiopeia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4765171187
+    m_Key: Centaurus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5237469072
+    m_Key: Cepheus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 941370926
+    m_Key: Cetus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6999716023
+    m_Key: Chamaeleon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6269967084
+    m_Key: Circinus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 647185086
+    m_Key: Columba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9233479557
+    m_Key: Coma Berenices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7406393757
+    m_Key: Corona Australis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3683368548
+    m_Key: Corona Borealis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653729973
+    m_Key: Corvus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447584645
+    m_Key: Crater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4097979073
+    m_Key: Crux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 407596511
+    m_Key: Cygnus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 602982634
+    m_Key: Delphinus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8291191025
+    m_Key: Dorado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7611001339
+    m_Key: Draco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30117019
+    m_Key: Equuleus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8446883668
+    m_Key: Eridanus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1765995305
+    m_Key: Fornax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5875371466
+    m_Key: Gemini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7335069910
+    m_Key: Grus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7521655209
+    m_Key: Hercules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2427541826
+    m_Key: Horologium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4348368821
+    m_Key: Hydra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6588931664
+    m_Key: Hydrus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7570754483
+    m_Key: Indus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9179844885
+    m_Key: Lacerta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5467176811
+    m_Key: Leo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5418805932
+    m_Key: Leo Minor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108680158
+    m_Key: Lepus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276684559
+    m_Key: Libra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9330340787
+    m_Key: Lupus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6178653819
+    m_Key: Lynx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4774797896
+    m_Key: Lyra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4636058425
+    m_Key: Mensa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6214089088
+    m_Key: Microscopium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8018754709
+    m_Key: Monoceros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4772526161
+    m_Key: Musca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7376084263
+    m_Key: Norma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530436629
+    m_Key: Octans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5382770043
+    m_Key: Ophiuchus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472171693
+    m_Key: Orion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26391795
+    m_Key: Pavo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7102038698
+    m_Key: Pegasus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5955241200
+    m_Key: Perseus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 274661308
+    m_Key: Phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1466117612
+    m_Key: Pictor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5590039785
+    m_Key: Pisces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8579107686
+    m_Key: Piscis Austrinus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6067821544
+    m_Key: Puppis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 785943800
+    m_Key: Pyxis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1172917778
+    m_Key: Reticulum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5507550249
+    m_Key: Sagitta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3678648982
+    m_Key: Sagittarius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1767443906
+    m_Key: Scorpius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8617710067
+    m_Key: Sculptor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1961781688
+    m_Key: Scutum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160683131
+    m_Key: Serpens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646230814
+    m_Key: Sextans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8430837929
+    m_Key: Taurus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1754083709
+    m_Key: Telescopium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8080702217
+    m_Key: Triangulum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5803016926
+    m_Key: Triangulum Australe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5470327255
+    m_Key: Tucana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8111300390
+    m_Key: Ursa Major
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4776422055
+    m_Key: Ursa Minor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7552495442
+    m_Key: Vela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7093837326
+    m_Key: Virgo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9759622741
+    m_Key: Volans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4563662375
+    m_Key: Vulpecula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352576246
+    m_Key: Mercury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4082681606
+    m_Key: Venus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6829351913
+    m_Key: Mars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2160202732
+    m_Key: Jupiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5264441002
+    m_Key: Saturn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81821482
+    m_Key: Uranus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098374386
+    m_Key: Neptune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1876561093
+    m_Key: Pluto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4845495557
+    m_Key: Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20701267866058752
+    m_Key: Earth
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6931629368516542466
+  references:
+    version: 2
+    RefIds:
+    - rid: 6931629368516542466
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1720485919288
