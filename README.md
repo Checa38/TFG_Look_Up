@@ -73,13 +73,7 @@ Universidad de Córdoba · Septiembre 2024
 
 ---
 
-## ✨ Capturas de Pantalla
-
-Próximamente...
-
----
-
 ## 📬 Contacto
 
-Para consultas técnicas o colaboración, contacta a través de [GitHub](https://github.com/) o correo institucional.
+carloschecamoreno@gmail.com
 
